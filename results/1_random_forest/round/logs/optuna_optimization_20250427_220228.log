@@ -1,0 +1,404 @@
+[2025-04-27 22:02:29] Trial 0:
+[2025-04-27 22:02:29] Params: {'n_estimators': 150, 'max_depth': 20, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': None, 'bootstrap': True}
+[2025-04-27 22:02:29] Accuracy: 0.3663
+
+[2025-04-27 22:02:32] Trial 1:
+[2025-04-27 22:02:32] Params: {'n_estimators': 202, 'max_depth': 3, 'min_samples_split': 4, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'bootstrap': False}
+[2025-04-27 22:02:32] Accuracy: 0.3587
+
+[2025-04-27 22:02:33] Trial 2:
+[2025-04-27 22:02:33] Params: {'n_estimators': 230, 'max_depth': 9, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_features': None, 'bootstrap': True}
+[2025-04-27 22:02:33] Accuracy: 0.3729
+
+[2025-04-27 22:02:35] Trial 3:
+[2025-04-27 22:02:35] Params: {'n_estimators': 199, 'max_depth': 18, 'min_samples_split': 8, 'min_samples_leaf': 2, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:02:35] Accuracy: 0.3686
+
+[2025-04-27 22:02:36] Trial 4:
+[2025-04-27 22:02:36] Params: {'n_estimators': 242, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3, 'max_features': None, 'bootstrap': True}
+[2025-04-27 22:02:36] Accuracy: 0.3645
+
+[2025-04-27 22:02:40] Trial 5:
+[2025-04-27 22:02:40] Params: {'n_estimators': 261, 'max_depth': 12, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:02:40] Accuracy: 0.3744
+
+[2025-04-27 22:02:42] Trial 6:
+[2025-04-27 22:02:42] Params: {'n_estimators': 78, 'max_depth': 3, 'min_samples_split': 8, 'min_samples_leaf': 1, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:02:42] Accuracy: 0.3587
+
+[2025-04-27 22:02:44] Trial 7:
+[2025-04-27 22:02:44] Params: {'n_estimators': 182, 'max_depth': 18, 'min_samples_split': 8, 'min_samples_leaf': 3, 'max_features': 'sqrt', 'bootstrap': True}
+[2025-04-27 22:02:44] Accuracy: 0.3740
+
+[2025-04-27 22:02:47] Trial 8:
+[2025-04-27 22:02:47] Params: {'n_estimators': 232, 'max_depth': 10, 'min_samples_split': 4, 'min_samples_leaf': 3, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:02:47] Accuracy: 0.3695
+
+[2025-04-27 22:02:48] Trial 9:
+[2025-04-27 22:02:48] Params: {'n_estimators': 61, 'max_depth': 11, 'min_samples_split': 7, 'min_samples_leaf': 1, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:02:48] Accuracy: 0.3693
+
+[2025-04-27 22:02:50] Trial 10:
+[2025-04-27 22:02:50] Params: {'n_estimators': 299, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:02:50] Accuracy: 0.3749
+
+[2025-04-27 22:02:52] Trial 11:
+[2025-04-27 22:02:52] Params: {'n_estimators': 300, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:02:52] Accuracy: 0.3747
+
+[2025-04-27 22:02:55] Trial 12:
+[2025-04-27 22:02:55] Params: {'n_estimators': 292, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:02:55] Accuracy: 0.3742
+
+[2025-04-27 22:02:57] Trial 13:
+[2025-04-27 22:02:57] Params: {'n_estimators': 298, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:02:57] Accuracy: 0.3721
+
+[2025-04-27 22:02:58] Trial 14:
+[2025-04-27 22:02:58] Params: {'n_estimators': 144, 'max_depth': 15, 'min_samples_split': 3, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:02:58] Accuracy: 0.3714
+
+[2025-04-27 22:03:00] Trial 15:
+[2025-04-27 22:03:00] Params: {'n_estimators': 270, 'max_depth': 7, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'bootstrap': False}
+[2025-04-27 22:03:00] Accuracy: 0.3656
+
+[2025-04-27 22:03:01] Trial 16:
+[2025-04-27 22:03:01] Params: {'n_estimators': 114, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:01] Accuracy: 0.3723
+
+[2025-04-27 22:03:03] Trial 17:
+[2025-04-27 22:03:03] Params: {'n_estimators': 277, 'max_depth': 16, 'min_samples_split': 4, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:03] Accuracy: 0.3740
+
+[2025-04-27 22:03:05] Trial 18:
+[2025-04-27 22:03:05] Params: {'n_estimators': 299, 'max_depth': 8, 'min_samples_split': 3, 'min_samples_leaf': 4, 'max_features': None, 'bootstrap': False}
+[2025-04-27 22:03:05] Accuracy: 0.3372
+
+[2025-04-27 22:03:07] Trial 19:
+[2025-04-27 22:03:07] Params: {'n_estimators': 251, 'max_depth': 17, 'min_samples_split': 5, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'bootstrap': False}
+[2025-04-27 22:03:07] Accuracy: 0.3701
+
+[2025-04-27 22:03:08] Trial 20:
+[2025-04-27 22:03:08] Params: {'n_estimators': 214, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:08] Accuracy: 0.3736
+
+[2025-04-27 22:03:13] Trial 21:
+[2025-04-27 22:03:13] Params: {'n_estimators': 268, 'max_depth': 11, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:03:13] Accuracy: 0.3716
+
+[2025-04-27 22:03:14] Trial 22:
+[2025-04-27 22:03:14] Params: {'n_estimators': 258, 'max_depth': 13, 'min_samples_split': 9, 'min_samples_leaf': 2, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:14] Accuracy: 0.3721
+
+[2025-04-27 22:03:19] Trial 23:
+[2025-04-27 22:03:19] Params: {'n_estimators': 279, 'max_depth': 12, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:03:19] Accuracy: 0.3729
+
+[2025-04-27 22:03:22] Trial 24:
+[2025-04-27 22:03:22] Params: {'n_estimators': 299, 'max_depth': 6, 'min_samples_split': 7, 'min_samples_leaf': 3, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:22] Accuracy: 0.3620
+
+[2025-04-27 22:03:24] Trial 25:
+[2025-04-27 22:03:24] Params: {'n_estimators': 257, 'max_depth': 15, 'min_samples_split': 3, 'min_samples_leaf': 2, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:24] Accuracy: 0.3671
+
+[2025-04-27 22:03:28] Trial 26:
+[2025-04-27 22:03:28] Params: {'n_estimators': 280, 'max_depth': 12, 'min_samples_split': 9, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:03:28] Accuracy: 0.3725
+
+[2025-04-27 22:03:30] Trial 27:
+[2025-04-27 22:03:30] Params: {'n_estimators': 220, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 3, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:30] Accuracy: 0.3695
+
+[2025-04-27 22:03:33] Trial 28:
+[2025-04-27 22:03:33] Params: {'n_estimators': 242, 'max_depth': 16, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'bootstrap': True}
+[2025-04-27 22:03:33] Accuracy: 0.3734
+
+[2025-04-27 22:03:34] Trial 29:
+[2025-04-27 22:03:34] Params: {'n_estimators': 122, 'max_depth': 20, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': None, 'bootstrap': True}
+[2025-04-27 22:03:34] Accuracy: 0.3658
+
+[2025-04-27 22:03:35] Trial 30:
+[2025-04-27 22:03:35] Params: {'n_estimators': 170, 'max_depth': 14, 'min_samples_split': 4, 'min_samples_leaf': 1, 'max_features': None, 'bootstrap': False}
+[2025-04-27 22:03:35] Accuracy: 0.2621
+
+[2025-04-27 22:03:37] Trial 31:
+[2025-04-27 22:03:37] Params: {'n_estimators': 285, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:37] Accuracy: 0.3742
+
+[2025-04-27 22:03:39] Trial 32:
+[2025-04-27 22:03:39] Params: {'n_estimators': 288, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:39] Accuracy: 0.3747
+
+[2025-04-27 22:03:41] Trial 33:
+[2025-04-27 22:03:41] Params: {'n_estimators': 265, 'max_depth': 16, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:41] Accuracy: 0.3742
+
+[2025-04-27 22:03:43] Trial 34:
+[2025-04-27 22:03:43] Params: {'n_estimators': 286, 'max_depth': 12, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:43] Accuracy: 0.3723
+
+[2025-04-27 22:03:45] Trial 35:
+[2025-04-27 22:03:45] Params: {'n_estimators': 251, 'max_depth': 10, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:45] Accuracy: 0.3708
+
+[2025-04-27 22:03:47] Trial 36:
+[2025-04-27 22:03:47] Params: {'n_estimators': 236, 'max_depth': 17, 'min_samples_split': 4, 'min_samples_leaf': 5, 'max_features': None, 'bootstrap': False}
+[2025-04-27 22:03:47] Accuracy: 0.2529
+
+[2025-04-27 22:03:49] Trial 37:
+[2025-04-27 22:03:49] Params: {'n_estimators': 194, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'sqrt', 'bootstrap': True}
+[2025-04-27 22:03:49] Accuracy: 0.3734
+
+[2025-04-27 22:03:52] Trial 38:
+[2025-04-27 22:03:52] Params: {'n_estimators': 221, 'max_depth': 9, 'min_samples_split': 7, 'min_samples_leaf': 3, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:03:52] Accuracy: 0.3654
+
+[2025-04-27 22:03:54] Trial 39:
+[2025-04-27 22:03:54] Params: {'n_estimators': 272, 'max_depth': 18, 'min_samples_split': 9, 'min_samples_leaf': 1, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:03:54] Accuracy: 0.3691
+
+[2025-04-27 22:04:00] Trial 40:
+[2025-04-27 22:04:00] Params: {'n_estimators': 290, 'max_depth': 4, 'min_samples_split': 4, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:04:00] Accuracy: 0.3589
+
+[2025-04-27 22:04:02] Trial 41:
+[2025-04-27 22:04:02] Params: {'n_estimators': 300, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:02] Accuracy: 0.3747
+
+[2025-04-27 22:04:04] Trial 42:
+[2025-04-27 22:04:04] Params: {'n_estimators': 288, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:04] Accuracy: 0.3747
+
+[2025-04-27 22:04:06] Trial 43:
+[2025-04-27 22:04:06] Params: {'n_estimators': 287, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:06] Accuracy: 0.3747
+
+[2025-04-27 22:04:08] Trial 44:
+[2025-04-27 22:04:08] Params: {'n_estimators': 283, 'max_depth': 15, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:08] Accuracy: 0.3734
+
+[2025-04-27 22:04:10] Trial 45:
+[2025-04-27 22:04:10] Params: {'n_estimators': 269, 'max_depth': 17, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:10] Accuracy: 0.3744
+
+[2025-04-27 22:04:11] Trial 46:
+[2025-04-27 22:04:11] Params: {'n_estimators': 245, 'max_depth': 14, 'min_samples_split': 3, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:11] Accuracy: 0.3734
+
+[2025-04-27 22:04:13] Trial 47:
+[2025-04-27 22:04:13] Params: {'n_estimators': 288, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:13] Accuracy: 0.3742
+
+[2025-04-27 22:04:15] Trial 48:
+[2025-04-27 22:04:15] Params: {'n_estimators': 260, 'max_depth': 16, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'bootstrap': False}
+[2025-04-27 22:04:15] Accuracy: 0.3721
+
+[2025-04-27 22:04:16] Trial 49:
+[2025-04-27 22:04:16] Params: {'n_estimators': 86, 'max_depth': 11, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': None, 'bootstrap': False}
+[2025-04-27 22:04:16] Accuracy: 0.2985
+
+[2025-04-27 22:04:18] Trial 50:
+[2025-04-27 22:04:18] Params: {'n_estimators': 293, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:18] Accuracy: 0.3740
+
+[2025-04-27 22:04:20] Trial 51:
+[2025-04-27 22:04:20] Params: {'n_estimators': 296, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:20] Accuracy: 0.3747
+
+[2025-04-27 22:04:22] Trial 52:
+[2025-04-27 22:04:22] Params: {'n_estimators': 278, 'max_depth': 14, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:22] Accuracy: 0.3740
+
+[2025-04-27 22:04:24] Trial 53:
+[2025-04-27 22:04:24] Params: {'n_estimators': 292, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:24] Accuracy: 0.3744
+
+[2025-04-27 22:04:26] Trial 54:
+[2025-04-27 22:04:26] Params: {'n_estimators': 300, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:26] Accuracy: 0.3736
+
+[2025-04-27 22:04:28] Trial 55:
+[2025-04-27 22:04:28] Params: {'n_estimators': 275, 'max_depth': 14, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:28] Accuracy: 0.3742
+
+[2025-04-27 22:04:30] Trial 56:
+[2025-04-27 22:04:30] Params: {'n_estimators': 265, 'max_depth': 12, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:30] Accuracy: 0.3716
+
+[2025-04-27 22:04:32] Trial 57:
+[2025-04-27 22:04:32] Params: {'n_estimators': 253, 'max_depth': 17, 'min_samples_split': 5, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:32] Accuracy: 0.3744
+
+[2025-04-27 22:04:34] Trial 58:
+[2025-04-27 22:04:34] Params: {'n_estimators': 290, 'max_depth': 13, 'min_samples_split': 3, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:34] Accuracy: 0.3727
+
+[2025-04-27 22:04:36] Trial 59:
+[2025-04-27 22:04:36] Params: {'n_estimators': 274, 'max_depth': 16, 'min_samples_split': 4, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'bootstrap': False}
+[2025-04-27 22:04:36] Accuracy: 0.3714
+
+[2025-04-27 22:04:38] Trial 60:
+[2025-04-27 22:04:38] Params: {'n_estimators': 281, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:38] Accuracy: 0.3736
+
+[2025-04-27 22:04:40] Trial 61:
+[2025-04-27 22:04:40] Params: {'n_estimators': 300, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:40] Accuracy: 0.3747
+
+[2025-04-27 22:04:42] Trial 62:
+[2025-04-27 22:04:42] Params: {'n_estimators': 295, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:42] Accuracy: 0.3747
+
+[2025-04-27 22:04:44] Trial 63:
+[2025-04-27 22:04:44] Params: {'n_estimators': 287, 'max_depth': 11, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:44] Accuracy: 0.3714
+
+[2025-04-27 22:04:46] Trial 64:
+[2025-04-27 22:04:46] Params: {'n_estimators': 300, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:46] Accuracy: 0.3736
+
+[2025-04-27 22:04:48] Trial 65:
+[2025-04-27 22:04:48] Params: {'n_estimators': 263, 'max_depth': 12, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:48] Accuracy: 0.3727
+
+[2025-04-27 22:04:49] Trial 66:
+[2025-04-27 22:04:49] Params: {'n_estimators': 149, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:49] Accuracy: 0.3721
+
+[2025-04-27 22:04:51] Trial 67:
+[2025-04-27 22:04:51] Params: {'n_estimators': 279, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': None, 'bootstrap': False}
+[2025-04-27 22:04:51] Accuracy: 0.2552
+
+[2025-04-27 22:04:53] Trial 68:
+[2025-04-27 22:04:53] Params: {'n_estimators': 164, 'max_depth': 16, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:53] Accuracy: 0.3742
+
+[2025-04-27 22:04:55] Trial 69:
+[2025-04-27 22:04:55] Params: {'n_estimators': 272, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:55] Accuracy: 0.3744
+
+[2025-04-27 22:04:57] Trial 70:
+[2025-04-27 22:04:57] Params: {'n_estimators': 284, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:57] Accuracy: 0.3725
+
+[2025-04-27 22:04:59] Trial 71:
+[2025-04-27 22:04:59] Params: {'n_estimators': 300, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:04:59] Accuracy: 0.3747
+
+[2025-04-27 22:05:01] Trial 72:
+[2025-04-27 22:05:01] Params: {'n_estimators': 294, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:01] Accuracy: 0.3747
+
+[2025-04-27 22:05:03] Trial 73:
+[2025-04-27 22:05:03] Params: {'n_estimators': 293, 'max_depth': 13, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:03] Accuracy: 0.3744
+
+[2025-04-27 22:05:05] Trial 74:
+[2025-04-27 22:05:05] Params: {'n_estimators': 288, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:05] Accuracy: 0.3744
+
+[2025-04-27 22:05:07] Trial 75:
+[2025-04-27 22:05:07] Params: {'n_estimators': 281, 'max_depth': 12, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:07] Accuracy: 0.3721
+
+[2025-04-27 22:05:08] Trial 76:
+[2025-04-27 22:05:08] Params: {'n_estimators': 131, 'max_depth': 16, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'bootstrap': False}
+[2025-04-27 22:05:08] Accuracy: 0.3706
+
+[2025-04-27 22:05:10] Trial 77:
+[2025-04-27 22:05:10] Params: {'n_estimators': 270, 'max_depth': 12, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:10] Accuracy: 0.3729
+
+[2025-04-27 22:05:12] Trial 78:
+[2025-04-27 22:05:12] Params: {'n_estimators': 294, 'max_depth': 14, 'min_samples_split': 4, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:12] Accuracy: 0.3747
+
+[2025-04-27 22:05:12] Trial 79:
+[2025-04-27 22:05:12] Params: {'n_estimators': 50, 'max_depth': 15, 'min_samples_split': 5, 'min_samples_leaf': 5, 'max_features': None, 'bootstrap': False}
+[2025-04-27 22:05:12] Accuracy: 0.2582
+
+[2025-04-27 22:05:14] Trial 80:
+[2025-04-27 22:05:14] Params: {'n_estimators': 258, 'max_depth': 17, 'min_samples_split': 4, 'min_samples_leaf': 4, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:14] Accuracy: 0.3716
+
+[2025-04-27 22:05:16] Trial 81:
+[2025-04-27 22:05:16] Params: {'n_estimators': 295, 'max_depth': 14, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:16] Accuracy: 0.3747
+
+[2025-04-27 22:05:18] Trial 82:
+[2025-04-27 22:05:18] Params: {'n_estimators': 293, 'max_depth': 13, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:18] Accuracy: 0.3744
+
+[2025-04-27 22:05:20] Trial 83:
+[2025-04-27 22:05:20] Params: {'n_estimators': 285, 'max_depth': 14, 'min_samples_split': 8, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:20] Accuracy: 0.3742
+
+[2025-04-27 22:05:22] Trial 84:
+[2025-04-27 22:05:22] Params: {'n_estimators': 277, 'max_depth': 14, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:22] Accuracy: 0.3740
+
+[2025-04-27 22:05:26] Trial 85:
+[2025-04-27 22:05:26] Params: {'n_estimators': 294, 'max_depth': 16, 'min_samples_split': 5, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:05:26] Accuracy: 0.3740
+
+[2025-04-27 22:05:28] Trial 86:
+[2025-04-27 22:05:28] Params: {'n_estimators': 204, 'max_depth': 15, 'min_samples_split': 7, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:28] Accuracy: 0.3706
+
+[2025-04-27 22:05:30] Trial 87:
+[2025-04-27 22:05:30] Params: {'n_estimators': 287, 'max_depth': 13, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:30] Accuracy: 0.3744
+
+[2025-04-27 22:05:31] Trial 88:
+[2025-04-27 22:05:31] Params: {'n_estimators': 268, 'max_depth': 14, 'min_samples_split': 4, 'min_samples_leaf': 3, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:31] Accuracy: 0.3727
+
+[2025-04-27 22:05:32] Trial 89:
+[2025-04-27 22:05:32] Params: {'n_estimators': 102, 'max_depth': 12, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'bootstrap': False}
+[2025-04-27 22:05:32] Accuracy: 0.3727
+
+[2025-04-27 22:05:34] Trial 90:
+[2025-04-27 22:05:34] Params: {'n_estimators': 294, 'max_depth': 11, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:34] Accuracy: 0.3710
+
+[2025-04-27 22:05:36] Trial 91:
+[2025-04-27 22:05:36] Params: {'n_estimators': 295, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:36] Accuracy: 0.3747
+
+[2025-04-27 22:05:38] Trial 92:
+[2025-04-27 22:05:38] Params: {'n_estimators': 282, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:38] Accuracy: 0.3736
+
+[2025-04-27 22:05:40] Trial 93:
+[2025-04-27 22:05:40] Params: {'n_estimators': 276, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:40] Accuracy: 0.3747
+
+[2025-04-27 22:05:42] Trial 94:
+[2025-04-27 22:05:42] Params: {'n_estimators': 289, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:42] Accuracy: 0.3749
+
+[2025-04-27 22:05:44] Trial 95:
+[2025-04-27 22:05:44] Params: {'n_estimators': 291, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:44] Accuracy: 0.3744
+
+[2025-04-27 22:05:46] Trial 96:
+[2025-04-27 22:05:46] Params: {'n_estimators': 247, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:46] Accuracy: 0.3721
+
+[2025-04-27 22:05:50] Trial 97:
+[2025-04-27 22:05:50] Params: {'n_estimators': 296, 'max_depth': 15, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': True}
+[2025-04-27 22:05:50] Accuracy: 0.3731
+
+[2025-04-27 22:05:52] Trial 98:
+[2025-04-27 22:05:52] Params: {'n_estimators': 285, 'max_depth': 13, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': None, 'bootstrap': False}
+[2025-04-27 22:05:52] Accuracy: 0.2707
+
+[2025-04-27 22:05:54] Trial 99:
+[2025-04-27 22:05:54] Params: {'n_estimators': 263, 'max_depth': 14, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+[2025-04-27 22:05:54] Accuracy: 0.3736
+
+[2025-04-27 22:05:54] 
+Best trial:
+[2025-04-27 22:05:54] Value: 0.3749
+[2025-04-27 22:05:54] Params: {'n_estimators': 289, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}

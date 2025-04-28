@@ -1,0 +1,63 @@
+Starting hyperparameter optimization...
+
+Best hyperparameters: {'n_estimators': 289, 'max_depth': 14, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_features': 'log2', 'bootstrap': False}
+
+Training Random Forest with optimized hyperparameters...
+
+Random Forest Test Accuracy: 36.66%
+
+Per-Round Accuracy:
+   1 - Accuracy: 20.62% (Test samples: 97)
+   2 - Accuracy: 2.78% (Test samples: 108)
+   3 - Accuracy: 0.84% (Test samples: 119)
+   4 - Accuracy: 2.52% (Test samples: 119)
+   5 - Accuracy: 0.00% (Test samples: 113)
+   6 - Accuracy: 0.00% (Test samples: 97)
+   7 - Accuracy: 0.00% (Test samples: 92)
+   8 - Accuracy: 95.68% (Test samples: 417)
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+           1       0.27      0.21      0.24        97
+           2       0.10      0.03      0.04       108
+           3       0.07      0.01      0.02       119
+           4       0.21      0.03      0.05       119
+           5       0.00      0.00      0.00       113
+           6       0.00      0.00      0.00        97
+           7       0.00      0.00      0.00        92
+           8       0.39      0.96      0.55       417
+
+    accuracy                           0.37      1162
+   macro avg       0.13      0.15      0.11      1162
+weighted avg       0.20      0.37      0.23      1162
+
+
+Feature Importances:
+Pos_OL              : 0.0013
+Pos_DL              : 0.0014
+Pos_C               : 0.0017
+Pos_LB              : 0.0023
+Pos_DB              : 0.0023
+Pos_FB              : 0.0024
+Pos_EDGE            : 0.0030
+Pos_OG              : 0.0032
+Pos_ILB             : 0.0043
+Pos_TE              : 0.0043
+Pos_DT              : 0.0044
+Pos_QB              : 0.0049
+Pos_S               : 0.0065
+Pos_DE              : 0.0068
+Pos_CB              : 0.0068
+Pos_OLB             : 0.0071
+Pos_OT              : 0.0074
+Pos_RB              : 0.0086
+Pos_WR              : 0.0139
+Ht                  : 0.0737
+Vertical            : 0.0940
+Bench               : 0.1004
+Broad Jump          : 0.1057
+Shuttle             : 0.1128
+3Cone               : 0.1171
+Wt                  : 0.1276
+40yd                : 0.1764

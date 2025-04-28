@@ -1,0 +1,7 @@
+Best Parameters:
+n_estimators: 234
+max_depth: 16
+min_samples_split: 3
+min_samples_leaf: 3
+max_features: log2
+bootstrap: True

@@ -1,0 +1,404 @@
+[2025-04-27 21:59:10] Trial 0:
+[2025-04-27 21:59:10] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'minkowski', 'p': 4}
+[2025-04-27 21:59:10] Accuracy: 0.3308
+
+[2025-04-27 21:59:11] Trial 1:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 7, 'weights': 'distance', 'metric': 'minkowski', 'p': 3}
+[2025-04-27 21:59:11] Accuracy: 0.2950
+
+[2025-04-27 21:59:11] Trial 2:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3305
+
+[2025-04-27 21:59:11] Trial 3:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 6, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.2916
+
+[2025-04-27 21:59:11] Trial 4:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 7, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.2825
+
+[2025-04-27 21:59:11] Trial 5:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'minkowski', 'p': 3}
+[2025-04-27 21:59:11] Accuracy: 0.3323
+
+[2025-04-27 21:59:11] Trial 6:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 10, 'weights': 'distance', 'metric': 'minkowski', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3185
+
+[2025-04-27 21:59:11] Trial 7:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 13, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3219
+
+[2025-04-27 21:59:11] Trial 8:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 11, 'weights': 'uniform', 'metric': 'minkowski', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3202
+
+[2025-04-27 21:59:11] Trial 9:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3376
+
+[2025-04-27 21:59:11] Trial 10:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3404
+
+[2025-04-27 21:59:11] Trial 11:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3415
+
+[2025-04-27 21:59:11] Trial 12:
+[2025-04-27 21:59:11] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:11] Accuracy: 0.3415
+
+[2025-04-27 21:59:12] Trial 13:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 1, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.2244
+
+[2025-04-27 21:59:12] Trial 14:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3404
+
+[2025-04-27 21:59:12] Trial 15:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3404
+
+[2025-04-27 21:59:12] Trial 16:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3415
+
+[2025-04-27 21:59:12] Trial 17:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3379
+
+[2025-04-27 21:59:12] Trial 18:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 13, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3305
+
+[2025-04-27 21:59:12] Trial 19:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 1, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.2244
+
+[2025-04-27 21:59:12] Trial 20:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3460
+
+[2025-04-27 21:59:12] Trial 21:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3460
+
+[2025-04-27 21:59:12] Trial 22:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3424
+
+[2025-04-27 21:59:12] Trial 23:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3424
+
+[2025-04-27 21:59:12] Trial 24:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 14, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3301
+
+[2025-04-27 21:59:12] Trial 25:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3379
+
+[2025-04-27 21:59:12] Trial 26:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 18, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3419
+
+[2025-04-27 21:59:12] Trial 27:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 11, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3224
+
+[2025-04-27 21:59:12] Trial 28:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3329
+
+[2025-04-27 21:59:12] Trial 29:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3295
+
+[2025-04-27 21:59:12] Trial 30:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3424
+
+[2025-04-27 21:59:12] Trial 31:
+[2025-04-27 21:59:12] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:12] Accuracy: 0.3424
+
+[2025-04-27 21:59:13] Trial 32:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3460
+
+[2025-04-27 21:59:13] Trial 33:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3460
+
+[2025-04-27 21:59:13] Trial 34:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3460
+
+[2025-04-27 21:59:13] Trial 35:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3460
+
+[2025-04-27 21:59:13] Trial 36:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 3, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.2208
+
+[2025-04-27 21:59:13] Trial 37:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'minkowski', 'p': 1}
+[2025-04-27 21:59:13] Accuracy: 0.3318
+
+[2025-04-27 21:59:13] Trial 38:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 9, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3140
+
+[2025-04-27 21:59:13] Trial 39:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 5, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.2617
+
+[2025-04-27 21:59:13] Trial 40:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 13, 'weights': 'distance', 'metric': 'minkowski', 'p': 4}
+[2025-04-27 21:59:13] Accuracy: 0.3264
+
+[2025-04-27 21:59:13] Trial 41:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3445
+
+[2025-04-27 21:59:13] Trial 42:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3460
+
+[2025-04-27 21:59:13] Trial 43:
+[2025-04-27 21:59:13] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:13] Accuracy: 0.3445
+
+[2025-04-27 21:59:14] Trial 44:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3329
+
+[2025-04-27 21:59:14] Trial 45:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3460
+
+[2025-04-27 21:59:14] Trial 46:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'minkowski', 'p': 1}
+[2025-04-27 21:59:14] Accuracy: 0.3376
+
+[2025-04-27 21:59:14] Trial 47:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3445
+
+[2025-04-27 21:59:14] Trial 48:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 20, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3443
+
+[2025-04-27 21:59:14] Trial 49:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3379
+
+[2025-04-27 21:59:14] Trial 50:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3445
+
+[2025-04-27 21:59:14] Trial 51:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3460
+
+[2025-04-27 21:59:14] Trial 52:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3460
+
+[2025-04-27 21:59:14] Trial 53:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3445
+
+[2025-04-27 21:59:14] Trial 54:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:14] Accuracy: 0.3424
+
+[2025-04-27 21:59:14] Trial 55:
+[2025-04-27 21:59:14] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'minkowski', 'p': 4}
+[2025-04-27 21:59:14] Accuracy: 0.3434
+
+[2025-04-27 21:59:15] Trial 56:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3379
+
+[2025-04-27 21:59:15] Trial 57:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3445
+
+[2025-04-27 21:59:15] Trial 58:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 9, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3140
+
+[2025-04-27 21:59:15] Trial 59:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3424
+
+[2025-04-27 21:59:15] Trial 60:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 20, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3443
+
+[2025-04-27 21:59:15] Trial 61:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3460
+
+[2025-04-27 21:59:15] Trial 62:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3445
+
+[2025-04-27 21:59:15] Trial 63:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3460
+
+[2025-04-27 21:59:15] Trial 64:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3424
+
+[2025-04-27 21:59:15] Trial 65:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3445
+
+[2025-04-27 21:59:15] Trial 66:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3329
+
+[2025-04-27 21:59:15] Trial 67:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3415
+
+[2025-04-27 21:59:15] Trial 68:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3424
+
+[2025-04-27 21:59:15] Trial 69:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'minkowski', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3379
+
+[2025-04-27 21:59:15] Trial 70:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 19, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3424
+
+[2025-04-27 21:59:15] Trial 71:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3460
+
+[2025-04-27 21:59:15] Trial 72:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3460
+
+[2025-04-27 21:59:15] Trial 73:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3445
+
+[2025-04-27 21:59:15] Trial 74:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3424
+
+[2025-04-27 21:59:15] Trial 75:
+[2025-04-27 21:59:15] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:15] Accuracy: 0.3460
+
+[2025-04-27 21:59:16] Trial 76:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3445
+
+[2025-04-27 21:59:16] Trial 77:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 7, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.2998
+
+[2025-04-27 21:59:16] Trial 78:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 12, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3230
+
+[2025-04-27 21:59:16] Trial 79:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3460
+
+[2025-04-27 21:59:16] Trial 80:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3445
+
+[2025-04-27 21:59:16] Trial 81:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3460
+
+[2025-04-27 21:59:16] Trial 82:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3460
+
+[2025-04-27 21:59:16] Trial 83:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3424
+
+[2025-04-27 21:59:16] Trial 84:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3445
+
+[2025-04-27 21:59:16] Trial 85:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'minkowski', 'p': 3}
+[2025-04-27 21:59:16] Accuracy: 0.3437
+
+[2025-04-27 21:59:16] Trial 86:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 18, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3419
+
+[2025-04-27 21:59:16] Trial 87:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3460
+
+[2025-04-27 21:59:16] Trial 88:
+[2025-04-27 21:59:16] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:16] Accuracy: 0.3445
+
+[2025-04-27 21:59:17] Trial 89:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3379
+
+[2025-04-27 21:59:17] Trial 90:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3415
+
+[2025-04-27 21:59:17] Trial 91:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3445
+
+[2025-04-27 21:59:17] Trial 92:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3460
+
+[2025-04-27 21:59:17] Trial 93:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 2, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.2223
+
+[2025-04-27 21:59:17] Trial 94:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3460
+
+[2025-04-27 21:59:17] Trial 95:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3445
+
+[2025-04-27 21:59:17] Trial 96:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3445
+
+[2025-04-27 21:59:17] Trial 97:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3460
+
+[2025-04-27 21:59:17] Trial 98:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:17] Accuracy: 0.3329
+
+[2025-04-27 21:59:17] Trial 99:
+[2025-04-27 21:59:17] Params: {'n_neighbors': 18, 'weights': 'uniform', 'metric': 'minkowski', 'p': 1}
+[2025-04-27 21:59:17] Accuracy: 0.3389
+
+[2025-04-27 21:59:17] 
+Best trial:
+[2025-04-27 21:59:17] Value: 0.3460
+[2025-04-27 21:59:17] Params: {'n_neighbors': 20, 'weights': 'distance', 'metric': 'euclidean'}

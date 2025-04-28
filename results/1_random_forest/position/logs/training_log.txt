@@ -1,0 +1,67 @@
+Starting hyperparameter optimization...
+
+Best hyperparameters: {'n_estimators': 234, 'max_depth': 16, 'min_samples_split': 3, 'min_samples_leaf': 3, 'max_features': 'log2', 'bootstrap': True}
+
+Training Random Forest with optimized hyperparameters...
+
+Random Forest Test Accuracy: 51.46%
+
+Per-Pos Accuracy:
+C    - Accuracy: 13.33% (Test samples: 30)
+CB   - Accuracy: 60.83% (Test samples: 120)
+DB   - Accuracy: 0.00% (Test samples: 14)
+DE   - Accuracy: 65.82% (Test samples: 79)
+DL   - Accuracy: 0.00% (Test samples: 18)
+DT   - Accuracy: 62.03% (Test samples: 79)
+EDGE - Accuracy: 0.00% (Test samples: 16)
+FB   - Accuracy: 15.00% (Test samples: 20)
+ILB  - Accuracy: 34.15% (Test samples: 41)
+LB   - Accuracy: 4.35% (Test samples: 23)
+OG   - Accuracy: 37.88% (Test samples: 66)
+OL   - Accuracy: 0.00% (Test samples: 20)
+OLB  - Accuracy: 47.76% (Test samples: 67)
+OT   - Accuracy: 75.29% (Test samples: 85)
+QB   - Accuracy: 73.13% (Test samples: 67)
+RB   - Accuracy: 72.12% (Test samples: 104)
+S    - Accuracy: 21.95% (Test samples: 82)
+TE   - Accuracy: 62.12% (Test samples: 66)
+WR   - Accuracy: 59.39% (Test samples: 165)
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+           C       0.31      0.13      0.19        30
+          CB       0.51      0.61      0.56       120
+          DB       0.00      0.00      0.00        14
+          DE       0.50      0.66      0.57        79
+          DL       0.00      0.00      0.00        18
+          DT       0.49      0.62      0.54        79
+        EDGE       0.00      0.00      0.00        16
+          FB       0.38      0.15      0.21        20
+         ILB       0.52      0.34      0.41        41
+          LB       0.25      0.04      0.07        23
+          OG       0.41      0.38      0.39        66
+          OL       0.00      0.00      0.00        20
+         OLB       0.35      0.48      0.41        67
+          OT       0.63      0.75      0.69        85
+          QB       0.84      0.73      0.78        67
+          RB       0.66      0.72      0.69       104
+           S       0.35      0.22      0.27        82
+          TE       0.43      0.62      0.51        66
+          WR       0.51      0.59      0.55       165
+
+    accuracy                           0.51      1162
+   macro avg       0.38      0.37      0.36      1162
+weighted avg       0.48      0.51      0.49      1162
+
+
+Feature Importances:
+Round               : 0.0433
+Vertical            : 0.0609
+Broad Jump          : 0.0737
+Shuttle             : 0.0834
+Bench               : 0.0874
+3Cone               : 0.0883
+40yd                : 0.1423
+Ht                  : 0.1482
+Wt                  : 0.2724

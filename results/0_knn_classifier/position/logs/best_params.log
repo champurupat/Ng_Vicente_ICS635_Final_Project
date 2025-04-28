@@ -1,0 +1,4 @@
+Best Parameters:
+n_neighbors: 15
+weights: distance
+metric: manhattan

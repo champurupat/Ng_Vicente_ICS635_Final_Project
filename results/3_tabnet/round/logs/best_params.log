@@ -1,0 +1,8 @@
+Best Parameters:
+n_d: 40
+n_a: 54
+n_steps: 3
+gamma: 1.3932825815130534
+lambda_sparse: 0.0009082176193672998
+learning_rate: 0.007064716440036426
+batch_size: 32

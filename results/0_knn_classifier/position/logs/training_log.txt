@@ -1,0 +1,55 @@
+Starting hyperparameter optimization...
+
+Training KNN with optimized hyperparameters...
+
+Optimized KNN Results:
+Overall Accuracy: 47.07%
+
+Per-Pos Accuracy:
+C    - Accuracy: 6.67% (Test samples: 30)
+CB   - Accuracy: 54.17% (Test samples: 120)
+DB   - Accuracy: 0.00% (Test samples: 14)
+DE   - Accuracy: 51.90% (Test samples: 79)
+DL   - Accuracy: 0.00% (Test samples: 18)
+DT   - Accuracy: 54.43% (Test samples: 79)
+EDGE - Accuracy: 12.50% (Test samples: 16)
+FB   - Accuracy: 5.00% (Test samples: 20)
+ILB  - Accuracy: 24.39% (Test samples: 41)
+LB   - Accuracy: 8.70% (Test samples: 23)
+OG   - Accuracy: 53.03% (Test samples: 66)
+OL   - Accuracy: 0.00% (Test samples: 20)
+OLB  - Accuracy: 40.30% (Test samples: 67)
+OT   - Accuracy: 64.71% (Test samples: 85)
+QB   - Accuracy: 74.63% (Test samples: 67)
+RB   - Accuracy: 67.31% (Test samples: 104)
+S    - Accuracy: 17.07% (Test samples: 82)
+TE   - Accuracy: 54.55% (Test samples: 66)
+WR   - Accuracy: 56.97% (Test samples: 165)
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+           C       0.29      0.07      0.11        30
+          CB       0.47      0.54      0.51       120
+          DB       0.00      0.00      0.00        14
+          DE       0.46      0.52      0.49        79
+          DL       0.00      0.00      0.00        18
+          DT       0.45      0.54      0.49        79
+        EDGE       0.25      0.12      0.17        16
+          FB       0.14      0.05      0.07        20
+         ILB       0.27      0.24      0.26        41
+          LB       0.15      0.09      0.11        23
+          OG       0.43      0.53      0.48        66
+          OL       0.00      0.00      0.00        20
+         OLB       0.34      0.40      0.37        67
+          OT       0.60      0.65      0.62        85
+          QB       0.68      0.75      0.71        67
+          RB       0.60      0.67      0.64       104
+           S       0.34      0.17      0.23        82
+          TE       0.44      0.55      0.49        66
+          WR       0.47      0.57      0.51       165
+
+    accuracy                           0.47      1162
+   macro avg       0.34      0.34      0.33      1162
+weighted avg       0.43      0.47      0.45      1162
+

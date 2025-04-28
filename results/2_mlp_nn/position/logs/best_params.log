@@ -1,0 +1,7 @@
+Best Parameters:
+units_layer1: 246
+units_layer2: 86
+dropout1: 0.17031458669681987
+dropout2: 0.32604090392187624
+learning_rate: 0.0007244856090396185
+batch_size: 64

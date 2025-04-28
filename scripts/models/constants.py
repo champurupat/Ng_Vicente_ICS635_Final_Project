@@ -1,0 +1,45 @@
+optuna_num_trials = 100
+labels_pos_ = [
+    "OT",
+    "TE",
+    "CB",
+    "OLB",
+    "S",
+    "OG",
+    "ILB",
+    "DE",
+    "QB",
+    "DT",
+    "RB",
+    "WR",
+    "FB",
+    "C",
+    "DL",
+    "EDGE",
+    "LB",
+    "DB",
+    "OL",
+]
+labels_round_ = [1, 2, 3, 4, 5, 6, 7, 8]
+features_pos_ = [
+    "Ht",
+    "Wt",
+    "40yd",
+    "Vertical",
+    "Bench",
+    "Broad Jump",
+    "3Cone",
+    "Shuttle",
+    "Round",
+]
+features_round_ = [
+    "Pos",
+    "Ht",
+    "Wt",
+    "40yd",
+    "Vertical",
+    "Bench",
+    "Broad Jump",
+    "3Cone",
+    "Shuttle",
+]

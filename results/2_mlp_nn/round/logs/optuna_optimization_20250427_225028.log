@@ -1,0 +1,404 @@
+[2025-04-27 22:50:59] Trial 0:
+[2025-04-27 22:50:59] Params: {'units_layer1': 33, 'units_layer2': 112, 'dropout1': 0.459556162839325, 'dropout2': 0.1854768908322106, 'learning_rate': 0.00011364665333614779, 'batch_size': 64}
+[2025-04-27 22:50:59] Best Validation Accuracy: 0.3680
+
+[2025-04-27 22:51:21] Trial 1:
+[2025-04-27 22:51:21] Params: {'units_layer1': 249, 'units_layer2': 88, 'dropout1': 0.4012210474648493, 'dropout2': 0.335335993802894, 'learning_rate': 0.006651481726709152, 'batch_size': 32}
+[2025-04-27 22:51:21] Best Validation Accuracy: 0.3800
+
+[2025-04-27 22:51:56] Trial 2:
+[2025-04-27 22:51:56] Params: {'units_layer1': 44, 'units_layer2': 48, 'dropout1': 0.37897186906391656, 'dropout2': 0.10567320860779583, 'learning_rate': 0.00016758741403128213, 'batch_size': 32}
+[2025-04-27 22:51:56] Best Validation Accuracy: 0.3813
+
+[2025-04-27 22:52:30] Trial 3:
+[2025-04-27 22:52:30] Params: {'units_layer1': 37, 'units_layer2': 45, 'dropout1': 0.10992731026249998, 'dropout2': 0.49597654560040794, 'learning_rate': 0.000944753705148029, 'batch_size': 32}
+[2025-04-27 22:52:30] Best Validation Accuracy: 0.3833
+
+[2025-04-27 22:53:25] Trial 4:
+[2025-04-27 22:53:25] Params: {'units_layer1': 141, 'units_layer2': 26, 'dropout1': 0.20979018445510406, 'dropout2': 0.4642347962834644, 'learning_rate': 0.00015616726719521072, 'batch_size': 16}
+[2025-04-27 22:53:25] Best Validation Accuracy: 0.3850
+
+[2025-04-27 22:53:34] Trial 5:
+[2025-04-27 22:53:34] Params: {'units_layer1': 141, 'units_layer2': 112, 'dropout1': 0.280188899910707, 'dropout2': 0.3594614759157525, 'learning_rate': 0.008236459879333123, 'batch_size': 128}
+[2025-04-27 22:53:34] Best Validation Accuracy: 0.3850
+
+[2025-04-27 22:53:54] Trial 6:
+[2025-04-27 22:53:54] Params: {'units_layer1': 154, 'units_layer2': 66, 'dropout1': 0.28257792527468345, 'dropout2': 0.1515982898429832, 'learning_rate': 0.00014406051825817577, 'batch_size': 128}
+[2025-04-27 22:53:54] Best Validation Accuracy: 0.3794
+
+[2025-04-27 22:54:09] Trial 7:
+[2025-04-27 22:54:09] Params: {'units_layer1': 156, 'units_layer2': 33, 'dropout1': 0.1616464800234549, 'dropout2': 0.29958803309900717, 'learning_rate': 0.0017647597871136577, 'batch_size': 32}
+[2025-04-27 22:54:09] Best Validation Accuracy: 0.3843
+
+[2025-04-27 22:54:20] Trial 8:
+[2025-04-27 22:54:20] Params: {'units_layer1': 214, 'units_layer2': 94, 'dropout1': 0.1937638299146824, 'dropout2': 0.3731929194933711, 'learning_rate': 0.0032358632309652815, 'batch_size': 64}
+[2025-04-27 22:54:20] Best Validation Accuracy: 0.3839
+
+[2025-04-27 22:54:47] Trial 9:
+[2025-04-27 22:54:47] Params: {'units_layer1': 112, 'units_layer2': 86, 'dropout1': 0.3087172191949253, 'dropout2': 0.2942805005833239, 'learning_rate': 0.0009332273736983391, 'batch_size': 16}
+[2025-04-27 22:54:47] Best Validation Accuracy: 0.3839
+
+[2025-04-27 22:55:39] Trial 10:
+[2025-04-27 22:55:39] Params: {'units_layer1': 98, 'units_layer2': 18, 'dropout1': 0.22356898696376856, 'dropout2': 0.45400352673624317, 'learning_rate': 0.0003850048202712241, 'batch_size': 16}
+[2025-04-27 22:55:39] Best Validation Accuracy: 0.3869
+
+[2025-04-27 22:56:29] Trial 11:
+[2025-04-27 22:56:29] Params: {'units_layer1': 95, 'units_layer2': 16, 'dropout1': 0.2106880622056225, 'dropout2': 0.4936184296910385, 'learning_rate': 0.00037007031486961764, 'batch_size': 16}
+[2025-04-27 22:56:29] Best Validation Accuracy: 0.3854
+
+[2025-04-27 22:57:20] Trial 12:
+[2025-04-27 22:57:20] Params: {'units_layer1': 91, 'units_layer2': 17, 'dropout1': 0.23630959102853455, 'dropout2': 0.44001639370583867, 'learning_rate': 0.00039449342989627666, 'batch_size': 16}
+[2025-04-27 22:57:20] Best Validation Accuracy: 0.3856
+
+[2025-04-27 22:58:06] Trial 13:
+[2025-04-27 22:58:06] Params: {'units_layer1': 79, 'units_layer2': 57, 'dropout1': 0.25850914480614656, 'dropout2': 0.4203101686452918, 'learning_rate': 0.00042486297957459947, 'batch_size': 16}
+[2025-04-27 22:58:06] Best Validation Accuracy: 0.3852
+
+[2025-04-27 22:58:56] Trial 14:
+[2025-04-27 22:58:56] Params: {'units_layer1': 76, 'units_layer2': 16, 'dropout1': 0.3415150426845678, 'dropout2': 0.42260743952476115, 'learning_rate': 0.00043211079918014023, 'batch_size': 16}
+[2025-04-27 22:58:56] Best Validation Accuracy: 0.3858
+
+[2025-04-27 22:59:41] Trial 15:
+[2025-04-27 22:59:41] Params: {'units_layer1': 72, 'units_layer2': 36, 'dropout1': 0.351564326316399, 'dropout2': 0.40336918235239716, 'learning_rate': 0.000570754709384961, 'batch_size': 16}
+[2025-04-27 22:59:41] Best Validation Accuracy: 0.3871
+
+[2025-04-27 23:00:10] Trial 16:
+[2025-04-27 23:00:10] Params: {'units_layer1': 186, 'units_layer2': 37, 'dropout1': 0.48176078141494133, 'dropout2': 0.24297292203484813, 'learning_rate': 0.0017392588138802965, 'batch_size': 16}
+[2025-04-27 23:00:10] Best Validation Accuracy: 0.3865
+
+[2025-04-27 23:01:00] Trial 17:
+[2025-04-27 23:01:00] Params: {'units_layer1': 119, 'units_layer2': 67, 'dropout1': 0.41310629148351585, 'dropout2': 0.3869451090789922, 'learning_rate': 0.00026657966483366113, 'batch_size': 16}
+[2025-04-27 23:01:00] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:01:23] Trial 18:
+[2025-04-27 23:01:23] Params: {'units_layer1': 64, 'units_layer2': 49, 'dropout1': 0.340343718044927, 'dropout2': 0.2625387643555187, 'learning_rate': 0.0007175912789149642, 'batch_size': 64}
+[2025-04-27 23:01:23] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:01:38] Trial 19:
+[2025-04-27 23:01:38] Params: {'units_layer1': 62, 'units_layer2': 33, 'dropout1': 0.1302831597410832, 'dropout2': 0.4515075148872353, 'learning_rate': 0.0016881054390805116, 'batch_size': 128}
+[2025-04-27 23:01:38] Best Validation Accuracy: 0.3837
+
+[2025-04-27 23:02:26] Trial 20:
+[2025-04-27 23:02:26] Params: {'units_layer1': 104, 'units_layer2': 124, 'dropout1': 0.3393923561147556, 'dropout2': 0.40377840138380416, 'learning_rate': 0.00026756482054622117, 'batch_size': 16}
+[2025-04-27 23:02:26] Best Validation Accuracy: 0.3828
+
+[2025-04-27 23:02:50] Trial 21:
+[2025-04-27 23:02:50] Params: {'units_layer1': 187, 'units_layer2': 35, 'dropout1': 0.49595373275842, 'dropout2': 0.23473652588827515, 'learning_rate': 0.0017204825184258207, 'batch_size': 16}
+[2025-04-27 23:02:50] Best Validation Accuracy: 0.3856
+
+[2025-04-27 23:03:27] Trial 22:
+[2025-04-27 23:03:27] Params: {'units_layer1': 182, 'units_layer2': 29, 'dropout1': 0.4465492192187984, 'dropout2': 0.21937707637219722, 'learning_rate': 0.0006705705316392232, 'batch_size': 16}
+[2025-04-27 23:03:27] Best Validation Accuracy: 0.3846
+
+[2025-04-27 23:03:52] Trial 23:
+[2025-04-27 23:03:52] Params: {'units_layer1': 186, 'units_layer2': 42, 'dropout1': 0.4747839264943942, 'dropout2': 0.3310528107803712, 'learning_rate': 0.003452712183581875, 'batch_size': 16}
+[2025-04-27 23:03:52] Best Validation Accuracy: 0.3830
+
+[2025-04-27 23:04:18] Trial 24:
+[2025-04-27 23:04:18] Params: {'units_layer1': 222, 'units_layer2': 57, 'dropout1': 0.42552020818038194, 'dropout2': 0.2576271497927541, 'learning_rate': 0.0026568234040443084, 'batch_size': 16}
+[2025-04-27 23:04:18] Best Validation Accuracy: 0.3830
+
+[2025-04-27 23:05:01] Trial 25:
+[2025-04-27 23:05:01] Params: {'units_layer1': 124, 'units_layer2': 24, 'dropout1': 0.38586015345277275, 'dropout2': 0.33890355142963435, 'learning_rate': 0.000626982363419652, 'batch_size': 16}
+[2025-04-27 23:05:01] Best Validation Accuracy: 0.3852
+
+[2025-04-27 23:05:31] Trial 26:
+[2025-04-27 23:05:31] Params: {'units_layer1': 169, 'units_layer2': 39, 'dropout1': 0.24888817205127323, 'dropout2': 0.4706511121283173, 'learning_rate': 0.0011032221575820798, 'batch_size': 16}
+[2025-04-27 23:05:31] Best Validation Accuracy: 0.3846
+
+[2025-04-27 23:05:49] Trial 27:
+[2025-04-27 23:05:49] Params: {'units_layer1': 52, 'units_layer2': 57, 'dropout1': 0.1761466701512611, 'dropout2': 0.19908744059212288, 'learning_rate': 0.0002591684751553393, 'batch_size': 128}
+[2025-04-27 23:05:49] Best Validation Accuracy: 0.3785
+
+[2025-04-27 23:06:03] Trial 28:
+[2025-04-27 23:06:03] Params: {'units_layer1': 208, 'units_layer2': 76, 'dropout1': 0.3109809456097826, 'dropout2': 0.27423152856212707, 'learning_rate': 0.001229754450287623, 'batch_size': 64}
+[2025-04-27 23:06:03] Best Validation Accuracy: 0.3876
+
+[2025-04-27 23:06:15] Trial 29:
+[2025-04-27 23:06:15] Params: {'units_layer1': 245, 'units_layer2': 78, 'dropout1': 0.30606799538638463, 'dropout2': 0.16727592853005036, 'learning_rate': 0.001167199659642761, 'batch_size': 64}
+[2025-04-27 23:06:15] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:06:37] Trial 30:
+[2025-04-27 23:06:37] Params: {'units_layer1': 207, 'units_layer2': 102, 'dropout1': 0.3658586739689521, 'dropout2': 0.4098355275614637, 'learning_rate': 0.0005473349474694098, 'batch_size': 64}
+[2025-04-27 23:06:37] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:06:49] Trial 31:
+[2025-04-27 23:06:49] Params: {'units_layer1': 229, 'units_layer2': 76, 'dropout1': 0.3161040083635134, 'dropout2': 0.2728786971157723, 'learning_rate': 0.0014180235840545044, 'batch_size': 64}
+[2025-04-27 23:06:49] Best Validation Accuracy: 0.3833
+
+[2025-04-27 23:07:03] Trial 32:
+[2025-04-27 23:07:03] Params: {'units_layer1': 199, 'units_layer2': 23, 'dropout1': 0.44230378643458224, 'dropout2': 0.3114997081091218, 'learning_rate': 0.0024259756084932227, 'batch_size': 64}
+[2025-04-27 23:07:03] Best Validation Accuracy: 0.3865
+
+[2025-04-27 23:07:13] Trial 33:
+[2025-04-27 23:07:13] Params: {'units_layer1': 237, 'units_layer2': 84, 'dropout1': 0.2818791944391139, 'dropout2': 0.2305917289463963, 'learning_rate': 0.004824154153870543, 'batch_size': 64}
+[2025-04-27 23:07:13] Best Validation Accuracy: 0.3809
+
+[2025-04-27 23:07:49] Trial 34:
+[2025-04-27 23:07:49] Params: {'units_layer1': 130, 'units_layer2': 66, 'dropout1': 0.3931564335459784, 'dropout2': 0.2003913090237816, 'learning_rate': 0.00010522349280200795, 'batch_size': 32}
+[2025-04-27 23:07:49] Best Validation Accuracy: 0.3818
+
+[2025-04-27 23:08:17] Trial 35:
+[2025-04-27 23:08:17] Params: {'units_layer1': 168, 'units_layer2': 49, 'dropout1': 0.23099898957505433, 'dropout2': 0.35095366138846334, 'learning_rate': 0.0008728626424504028, 'batch_size': 16}
+[2025-04-27 23:08:17] Best Validation Accuracy: 0.3854
+
+[2025-04-27 23:08:42] Trial 36:
+[2025-04-27 23:08:42] Params: {'units_layer1': 38, 'units_layer2': 39, 'dropout1': 0.37033651851392385, 'dropout2': 0.1431408059316655, 'learning_rate': 0.0012573744392503786, 'batch_size': 32}
+[2025-04-27 23:08:42] Best Validation Accuracy: 0.3880
+
+[2025-04-27 23:09:15] Trial 37:
+[2025-04-27 23:09:15] Params: {'units_layer1': 32, 'units_layer2': 26, 'dropout1': 0.3586951044276091, 'dropout2': 0.10437418339815097, 'learning_rate': 0.0002141785476762458, 'batch_size': 32}
+[2025-04-27 23:09:15] Best Validation Accuracy: 0.3807
+
+[2025-04-27 23:09:46] Trial 38:
+[2025-04-27 23:09:46] Params: {'units_layer1': 51, 'units_layer2': 53, 'dropout1': 0.3266983072437098, 'dropout2': 0.12595419229062066, 'learning_rate': 0.000520979844452136, 'batch_size': 32}
+[2025-04-27 23:09:46] Best Validation Accuracy: 0.3873
+
+[2025-04-27 23:10:16] Trial 39:
+[2025-04-27 23:10:16] Params: {'units_layer1': 56, 'units_layer2': 53, 'dropout1': 0.3303341084575722, 'dropout2': 0.13614353206187824, 'learning_rate': 0.0005473577878521128, 'batch_size': 32}
+[2025-04-27 23:10:16] Best Validation Accuracy: 0.3867
+
+[2025-04-27 23:10:35] Trial 40:
+[2025-04-27 23:10:35] Params: {'units_layer1': 48, 'units_layer2': 62, 'dropout1': 0.37948214966779387, 'dropout2': 0.13120316066532214, 'learning_rate': 0.001321503016698375, 'batch_size': 32}
+[2025-04-27 23:10:35] Best Validation Accuracy: 0.3876
+
+[2025-04-27 23:10:54] Trial 41:
+[2025-04-27 23:10:54] Params: {'units_layer1': 47, 'units_layer2': 61, 'dropout1': 0.3668761905737567, 'dropout2': 0.12847359042770543, 'learning_rate': 0.0013448017032459398, 'batch_size': 32}
+[2025-04-27 23:10:54] Best Validation Accuracy: 0.3869
+
+[2025-04-27 23:11:23] Trial 42:
+[2025-04-27 23:11:23] Params: {'units_layer1': 40, 'units_layer2': 72, 'dropout1': 0.4120921222858933, 'dropout2': 0.16833850114856508, 'learning_rate': 0.0008137618591954392, 'batch_size': 32}
+[2025-04-27 23:11:23] Best Validation Accuracy: 0.3830
+
+[2025-04-27 23:11:40] Trial 43:
+[2025-04-27 23:11:40] Params: {'units_layer1': 74, 'units_layer2': 45, 'dropout1': 0.3777521211588383, 'dropout2': 0.12671737270299716, 'learning_rate': 0.00234596472446744, 'batch_size': 32}
+[2025-04-27 23:11:40] Best Validation Accuracy: 0.3835
+
+[2025-04-27 23:12:06] Trial 44:
+[2025-04-27 23:12:06] Params: {'units_layer1': 43, 'units_layer2': 62, 'dropout1': 0.2972607413841255, 'dropout2': 0.14942951988524, 'learning_rate': 0.0013533944374316252, 'batch_size': 32}
+[2025-04-27 23:12:06] Best Validation Accuracy: 0.3826
+
+[2025-04-27 23:12:37] Trial 45:
+[2025-04-27 23:12:37] Params: {'units_layer1': 66, 'units_layer2': 43, 'dropout1': 0.31983363734186476, 'dropout2': 0.1110419452518159, 'learning_rate': 0.0005210238492574089, 'batch_size': 32}
+[2025-04-27 23:12:37] Best Validation Accuracy: 0.3854
+
+[2025-04-27 23:13:03] Trial 46:
+[2025-04-27 23:13:03] Params: {'units_layer1': 33, 'units_layer2': 94, 'dropout1': 0.2718980796620882, 'dropout2': 0.1662384172456668, 'learning_rate': 0.0010423712549188584, 'batch_size': 32}
+[2025-04-27 23:13:03] Best Validation Accuracy: 0.3828
+
+[2025-04-27 23:13:24] Trial 47:
+[2025-04-27 23:13:24] Params: {'units_layer1': 85, 'units_layer2': 72, 'dropout1': 0.35980768041530087, 'dropout2': 0.18158720757936633, 'learning_rate': 0.0008028874098418024, 'batch_size': 32}
+[2025-04-27 23:13:24] Best Validation Accuracy: 0.3826
+
+[2025-04-27 23:13:42] Trial 48:
+[2025-04-27 23:13:42] Params: {'units_layer1': 55, 'units_layer2': 52, 'dropout1': 0.4000230883533904, 'dropout2': 0.12012931413337563, 'learning_rate': 0.00201985022822491, 'batch_size': 32}
+[2025-04-27 23:13:42] Best Validation Accuracy: 0.3858
+
+[2025-04-27 23:14:01] Trial 49:
+[2025-04-27 23:14:01] Params: {'units_layer1': 69, 'units_layer2': 80, 'dropout1': 0.29304321324755556, 'dropout2': 0.20686809045508703, 'learning_rate': 0.0003101759994445389, 'batch_size': 128}
+[2025-04-27 23:14:01] Best Validation Accuracy: 0.3813
+
+[2025-04-27 23:14:16] Trial 50:
+[2025-04-27 23:14:16] Params: {'units_layer1': 85, 'units_layer2': 67, 'dropout1': 0.3298610028669701, 'dropout2': 0.14820678267097498, 'learning_rate': 0.0037437503179645697, 'batch_size': 32}
+[2025-04-27 23:14:16] Best Validation Accuracy: 0.3837
+
+[2025-04-27 23:14:48] Trial 51:
+[2025-04-27 23:14:48] Params: {'units_layer1': 106, 'units_layer2': 30, 'dropout1': 0.35316594515555233, 'dropout2': 0.47560646822420977, 'learning_rate': 0.0004608062074793208, 'batch_size': 32}
+[2025-04-27 23:14:48] Best Validation Accuracy: 0.3867
+
+[2025-04-27 23:15:12] Trial 52:
+[2025-04-27 23:15:12] Params: {'units_layer1': 97, 'units_layer2': 21, 'dropout1': 0.26745013088258607, 'dropout2': 0.4398902074533918, 'learning_rate': 0.00034441051861540883, 'batch_size': 64}
+[2025-04-27 23:15:12] Best Validation Accuracy: 0.3824
+
+[2025-04-27 23:15:46] Trial 53:
+[2025-04-27 23:15:46] Params: {'units_layer1': 47, 'units_layer2': 41, 'dropout1': 0.13146448737796085, 'dropout2': 0.38221155570800364, 'learning_rate': 0.00019565867158319927, 'batch_size': 32}
+[2025-04-27 23:15:46] Best Validation Accuracy: 0.3800
+
+[2025-04-27 23:16:00] Trial 54:
+[2025-04-27 23:16:00] Params: {'units_layer1': 256, 'units_layer2': 31, 'dropout1': 0.3471367543060248, 'dropout2': 0.10119014719050101, 'learning_rate': 0.0006821881530898238, 'batch_size': 128}
+[2025-04-27 23:16:00] Best Validation Accuracy: 0.3830
+
+[2025-04-27 23:16:22] Trial 55:
+[2025-04-27 23:16:22] Params: {'units_layer1': 56, 'units_layer2': 36, 'dropout1': 0.37902508523718936, 'dropout2': 0.4893301200470176, 'learning_rate': 0.0012093830283551896, 'batch_size': 64}
+[2025-04-27 23:16:22] Best Validation Accuracy: 0.3854
+
+[2025-04-27 23:16:47] Trial 56:
+[2025-04-27 23:16:47] Params: {'units_layer1': 149, 'units_layer2': 53, 'dropout1': 0.32319329728166557, 'dropout2': 0.14446776013882998, 'learning_rate': 0.0009434961189781618, 'batch_size': 16}
+[2025-04-27 23:16:47] Best Validation Accuracy: 0.3841
+
+[2025-04-27 23:17:17] Trial 57:
+[2025-04-27 23:17:17] Params: {'units_layer1': 79, 'units_layer2': 61, 'dropout1': 0.22208538899526575, 'dropout2': 0.45135733221924257, 'learning_rate': 0.000474957107120755, 'batch_size': 32}
+[2025-04-27 23:17:17] Best Validation Accuracy: 0.3846
+
+[2025-04-27 23:18:08] Trial 58:
+[2025-04-27 23:18:08] Params: {'units_layer1': 62, 'units_layer2': 19, 'dropout1': 0.252382165128214, 'dropout2': 0.29009434502462783, 'learning_rate': 0.0003759654933824905, 'batch_size': 16}
+[2025-04-27 23:18:08] Best Validation Accuracy: 0.3854
+
+[2025-04-27 23:18:28] Trial 59:
+[2025-04-27 23:18:28] Params: {'units_layer1': 134, 'units_layer2': 48, 'dropout1': 0.1934987013436376, 'dropout2': 0.4293297816296594, 'learning_rate': 0.0007758562995386387, 'batch_size': 32}
+[2025-04-27 23:18:28] Best Validation Accuracy: 0.3830
+
+[2025-04-27 23:18:59] Trial 60:
+[2025-04-27 23:18:59] Params: {'units_layer1': 71, 'units_layer2': 38, 'dropout1': 0.4216104372319467, 'dropout2': 0.39798832210642304, 'learning_rate': 0.0014513319793535596, 'batch_size': 16}
+[2025-04-27 23:18:59] Best Validation Accuracy: 0.3871
+
+[2025-04-27 23:19:31] Trial 61:
+[2025-04-27 23:19:31] Params: {'units_layer1': 72, 'units_layer2': 38, 'dropout1': 0.40259607814340315, 'dropout2': 0.39980163415327435, 'learning_rate': 0.0016012598388961733, 'batch_size': 16}
+[2025-04-27 23:19:31] Best Validation Accuracy: 0.3856
+
+[2025-04-27 23:20:17] Trial 62:
+[2025-04-27 23:20:17] Params: {'units_layer1': 90, 'units_layer2': 26, 'dropout1': 0.42399618786989546, 'dropout2': 0.36400724830060105, 'learning_rate': 0.0005959408123392791, 'batch_size': 16}
+[2025-04-27 23:20:17] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:21:01] Trial 63:
+[2025-04-27 23:21:01] Params: {'units_layer1': 43, 'units_layer2': 45, 'dropout1': 0.44799483448902866, 'dropout2': 0.3837195966602212, 'learning_rate': 0.0009950364356834352, 'batch_size': 16}
+[2025-04-27 23:21:01] Best Validation Accuracy: 0.3850
+
+[2025-04-27 23:21:25] Trial 64:
+[2025-04-27 23:21:25] Params: {'units_layer1': 62, 'units_layer2': 34, 'dropout1': 0.3774899962115748, 'dropout2': 0.18398111824658211, 'learning_rate': 0.0015564112158875532, 'batch_size': 16}
+[2025-04-27 23:21:25] Best Validation Accuracy: 0.3858
+
+[2025-04-27 23:21:39] Trial 65:
+[2025-04-27 23:21:39] Params: {'units_layer1': 51, 'units_layer2': 91, 'dropout1': 0.4260024768091276, 'dropout2': 0.3284408110896637, 'learning_rate': 0.0020057163165575543, 'batch_size': 64}
+[2025-04-27 23:21:39] Best Validation Accuracy: 0.3837
+
+[2025-04-27 23:22:11] Trial 66:
+[2025-04-27 23:22:11] Params: {'units_layer1': 83, 'units_layer2': 57, 'dropout1': 0.3380977071731399, 'dropout2': 0.45485110391658756, 'learning_rate': 0.0012257864659745495, 'batch_size': 16}
+[2025-04-27 23:22:11] Best Validation Accuracy: 0.3858
+
+[2025-04-27 23:22:24] Trial 67:
+[2025-04-27 23:22:24] Params: {'units_layer1': 114, 'units_layer2': 40, 'dropout1': 0.3071745341962118, 'dropout2': 0.4138891134770724, 'learning_rate': 0.001877179241571885, 'batch_size': 128}
+[2025-04-27 23:22:24] Best Validation Accuracy: 0.3839
+
+[2025-04-27 23:23:06] Trial 68:
+[2025-04-27 23:23:06] Params: {'units_layer1': 95, 'units_layer2': 30, 'dropout1': 0.36921698144670045, 'dropout2': 0.3976610457455139, 'learning_rate': 0.0006959945088428862, 'batch_size': 16}
+[2025-04-27 23:23:06] Best Validation Accuracy: 0.3865
+
+[2025-04-27 23:23:30] Trial 69:
+[2025-04-27 23:23:30] Params: {'units_layer1': 37, 'units_layer2': 46, 'dropout1': 0.28857846190376596, 'dropout2': 0.4290248656784779, 'learning_rate': 0.0002975521189259376, 'batch_size': 64}
+[2025-04-27 23:23:30] Best Validation Accuracy: 0.3792
+
+[2025-04-27 23:24:00] Trial 70:
+[2025-04-27 23:24:00] Params: {'units_layer1': 58, 'units_layer2': 69, 'dropout1': 0.3902364094762465, 'dropout2': 0.312206110410801, 'learning_rate': 0.0029190158803602414, 'batch_size': 16}
+[2025-04-27 23:24:00] Best Validation Accuracy: 0.3854
+
+[2025-04-27 23:24:19] Trial 71:
+[2025-04-27 23:24:19] Params: {'units_layer1': 51, 'units_layer2': 75, 'dropout1': 0.3493466903778104, 'dropout2': 0.1288498188359976, 'learning_rate': 0.001334786361017612, 'batch_size': 32}
+[2025-04-27 23:24:19] Best Validation Accuracy: 0.3830
+
+[2025-04-27 23:24:38] Trial 72:
+[2025-04-27 23:24:38] Params: {'units_layer1': 47, 'units_layer2': 82, 'dropout1': 0.36586279519932036, 'dropout2': 0.15755353918513043, 'learning_rate': 0.0014574512255504403, 'batch_size': 32}
+[2025-04-27 23:24:38] Best Validation Accuracy: 0.3856
+
+[2025-04-27 23:25:01] Trial 73:
+[2025-04-27 23:25:01] Params: {'units_layer1': 48, 'units_layer2': 64, 'dropout1': 0.3325207513559299, 'dropout2': 0.11821101224758541, 'learning_rate': 0.0010573793880580165, 'batch_size': 32}
+[2025-04-27 23:25:01] Best Validation Accuracy: 0.3833
+
+[2025-04-27 23:25:28] Trial 74:
+[2025-04-27 23:25:28] Params: {'units_layer1': 39, 'units_layer2': 59, 'dropout1': 0.4122979609232317, 'dropout2': 0.1359471856354858, 'learning_rate': 0.0013105081942132984, 'batch_size': 32}
+[2025-04-27 23:25:28] Best Validation Accuracy: 0.3820
+
+[2025-04-27 23:25:44] Trial 75:
+[2025-04-27 23:25:44] Params: {'units_layer1': 71, 'units_layer2': 51, 'dropout1': 0.31095686422137436, 'dropout2': 0.1128271176868094, 'learning_rate': 0.0022700975403330574, 'batch_size': 32}
+[2025-04-27 23:25:44] Best Validation Accuracy: 0.3833
+
+[2025-04-27 23:26:16] Trial 76:
+[2025-04-27 23:26:16] Params: {'units_layer1': 32, 'units_layer2': 55, 'dropout1': 0.43552846146593094, 'dropout2': 0.3499157717585481, 'learning_rate': 0.0008872286929460779, 'batch_size': 32}
+[2025-04-27 23:26:16] Best Validation Accuracy: 0.3848
+
+[2025-04-27 23:26:43] Trial 77:
+[2025-04-27 23:26:43] Params: {'units_layer1': 64, 'units_layer2': 69, 'dropout1': 0.46870829600801256, 'dropout2': 0.1376581665419813, 'learning_rate': 0.00961555882951241, 'batch_size': 16}
+[2025-04-27 23:26:43] Best Validation Accuracy: 0.3805
+
+[2025-04-27 23:27:08] Trial 78:
+[2025-04-27 23:27:08] Params: {'units_layer1': 78, 'units_layer2': 121, 'dropout1': 0.4022177265725854, 'dropout2': 0.15904749472764088, 'learning_rate': 0.00041135906786146523, 'batch_size': 64}
+[2025-04-27 23:27:08] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:27:43] Trial 79:
+[2025-04-27 23:27:43] Params: {'units_layer1': 104, 'units_layer2': 59, 'dropout1': 0.3701832387928568, 'dropout2': 0.2795056393562164, 'learning_rate': 0.00013366782506168788, 'batch_size': 32}
+[2025-04-27 23:27:43] Best Validation Accuracy: 0.3839
+
+[2025-04-27 23:28:19] Trial 80:
+[2025-04-27 23:28:19] Params: {'units_layer1': 42, 'units_layer2': 62, 'dropout1': 0.32620888812701865, 'dropout2': 0.17743102262038357, 'learning_rate': 0.0007565681019443848, 'batch_size': 16}
+[2025-04-27 23:28:19] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:28:52] Trial 81:
+[2025-04-27 23:28:52] Params: {'units_layer1': 159, 'units_layer2': 29, 'dropout1': 0.3563394669851068, 'dropout2': 0.4774574853203926, 'learning_rate': 0.00045608565784903665, 'batch_size': 32}
+[2025-04-27 23:28:52] Best Validation Accuracy: 0.3865
+
+[2025-04-27 23:29:26] Trial 82:
+[2025-04-27 23:29:26] Params: {'units_layer1': 103, 'units_layer2': 21, 'dropout1': 0.3510378651762258, 'dropout2': 0.4886660244429562, 'learning_rate': 0.0005120014321372345, 'batch_size': 32}
+[2025-04-27 23:29:26] Best Validation Accuracy: 0.3852
+
+[2025-04-27 23:30:00] Trial 83:
+[2025-04-27 23:30:00] Params: {'units_layer1': 114, 'units_layer2': 32, 'dropout1': 0.34103454375155573, 'dropout2': 0.4596216881008103, 'learning_rate': 0.0003447950395272765, 'batch_size': 32}
+[2025-04-27 23:30:00] Best Validation Accuracy: 0.3854
+
+[2025-04-27 23:30:32] Trial 84:
+[2025-04-27 23:30:32] Params: {'units_layer1': 68, 'units_layer2': 27, 'dropout1': 0.3847435331153836, 'dropout2': 0.4990271534198507, 'learning_rate': 0.0005827101322094734, 'batch_size': 32}
+[2025-04-27 23:30:32] Best Validation Accuracy: 0.3863
+
+[2025-04-27 23:30:54] Trial 85:
+[2025-04-27 23:30:54] Params: {'units_layer1': 121, 'units_layer2': 37, 'dropout1': 0.30269743157588896, 'dropout2': 0.48041626192135445, 'learning_rate': 0.0011776824764855355, 'batch_size': 32}
+[2025-04-27 23:30:54] Best Validation Accuracy: 0.3858
+
+[2025-04-27 23:31:12] Trial 86:
+[2025-04-27 23:31:12] Params: {'units_layer1': 59, 'units_layer2': 18, 'dropout1': 0.3610971154922786, 'dropout2': 0.43662862616502285, 'learning_rate': 0.00024738075398188567, 'batch_size': 128}
+[2025-04-27 23:31:12] Best Validation Accuracy: 0.3594
+
+[2025-04-27 23:31:43] Trial 87:
+[2025-04-27 23:31:43] Params: {'units_layer1': 88, 'units_layer2': 34, 'dropout1': 0.3933004109129645, 'dropout2': 0.47171603048985006, 'learning_rate': 0.0006534838160606538, 'batch_size': 32}
+[2025-04-27 23:31:43] Best Validation Accuracy: 0.3841
+
+[2025-04-27 23:31:56] Trial 88:
+[2025-04-27 23:31:56] Params: {'units_layer1': 136, 'units_layer2': 43, 'dropout1': 0.14895055845995525, 'dropout2': 0.3712081180881023, 'learning_rate': 0.0017639971514642355, 'batch_size': 64}
+[2025-04-27 23:31:56] Best Validation Accuracy: 0.3867
+
+[2025-04-27 23:32:18] Trial 89:
+[2025-04-27 23:32:18] Params: {'units_layer1': 200, 'units_layer2': 23, 'dropout1': 0.3198351005769969, 'dropout2': 0.44868861347938627, 'learning_rate': 0.0015163987747907847, 'batch_size': 32}
+[2025-04-27 23:32:18] Best Validation Accuracy: 0.3848
+
+[2025-04-27 23:32:54] Trial 90:
+[2025-04-27 23:32:54] Params: {'units_layer1': 37, 'units_layer2': 47, 'dropout1': 0.27253036974182754, 'dropout2': 0.24642838363431802, 'learning_rate': 0.0008903846372862928, 'batch_size': 16}
+[2025-04-27 23:32:54] Best Validation Accuracy: 0.3850
+
+[2025-04-27 23:33:25] Trial 91:
+[2025-04-27 23:33:25] Params: {'units_layer1': 53, 'units_layer2': 54, 'dropout1': 0.33606070939543564, 'dropout2': 0.13117712507610413, 'learning_rate': 0.0005134988779058278, 'batch_size': 32}
+[2025-04-27 23:33:25] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:33:56] Trial 92:
+[2025-04-27 23:33:56] Params: {'units_layer1': 75, 'units_layer2': 50, 'dropout1': 0.35169852634692056, 'dropout2': 0.13956936409627627, 'learning_rate': 0.000458843077157622, 'batch_size': 32}
+[2025-04-27 23:33:56] Best Validation Accuracy: 0.3852
+
+[2025-04-27 23:34:16] Trial 93:
+[2025-04-27 23:34:16] Params: {'units_layer1': 58, 'units_layer2': 74, 'dropout1': 0.37463221995944473, 'dropout2': 0.10994497120139936, 'learning_rate': 0.0010852939936853174, 'batch_size': 32}
+[2025-04-27 23:34:16] Best Validation Accuracy: 0.3856
+
+[2025-04-27 23:34:48] Trial 94:
+[2025-04-27 23:34:48] Params: {'units_layer1': 99, 'units_layer2': 40, 'dropout1': 0.31668583758966473, 'dropout2': 0.1198047403182102, 'learning_rate': 0.00035772738562349154, 'batch_size': 32}
+[2025-04-27 23:34:48] Best Validation Accuracy: 0.3843
+
+[2025-04-27 23:35:09] Trial 95:
+[2025-04-27 23:35:09] Params: {'units_layer1': 47, 'units_layer2': 65, 'dropout1': 0.10376894902911757, 'dropout2': 0.19289799514940587, 'learning_rate': 0.0006199898295378476, 'batch_size': 32}
+[2025-04-27 23:35:09] Best Validation Accuracy: 0.3820
+
+[2025-04-27 23:35:59] Trial 96:
+[2025-04-27 23:35:59] Params: {'units_layer1': 66, 'units_layer2': 43, 'dropout1': 0.33049986118607455, 'dropout2': 0.12520460823346333, 'learning_rate': 0.0003009447577553829, 'batch_size': 16}
+[2025-04-27 23:35:59] Best Validation Accuracy: 0.3837
+
+[2025-04-27 23:36:21] Trial 97:
+[2025-04-27 23:36:21] Params: {'units_layer1': 83, 'units_layer2': 87, 'dropout1': 0.3444111967774989, 'dropout2': 0.15569877274761387, 'learning_rate': 0.0005543644103841958, 'batch_size': 32}
+[2025-04-27 23:36:21] Best Validation Accuracy: 0.3861
+
+[2025-04-27 23:36:44] Trial 98:
+[2025-04-27 23:36:44] Params: {'units_layer1': 55, 'units_layer2': 70, 'dropout1': 0.28841863364749915, 'dropout2': 0.17115950876599562, 'learning_rate': 0.00040870322203959933, 'batch_size': 64}
+[2025-04-27 23:36:44] Best Validation Accuracy: 0.3833
+
+[2025-04-27 23:37:24] Trial 99:
+[2025-04-27 23:37:24] Params: {'units_layer1': 110, 'units_layer2': 36, 'dropout1': 0.3851935360231243, 'dropout2': 0.4647101187756232, 'learning_rate': 0.0009592129563846962, 'batch_size': 16}
+[2025-04-27 23:37:24] Best Validation Accuracy: 0.3856
+
+[2025-04-27 23:37:24] 
+Best trial:
+[2025-04-27 23:37:24] Value: 0.3880
+[2025-04-27 23:37:24] Params: {'units_layer1': 38, 'units_layer2': 39, 'dropout1': 0.37033651851392385, 'dropout2': 0.1431408059316655, 'learning_rate': 0.0012573744392503786, 'batch_size': 32}

@@ -1,0 +1,404 @@
+[2025-04-27 23:38:29] Trial 0:
+[2025-04-27 23:38:29] Params: {'n_d': 11, 'n_a': 15, 'n_steps': 2, 'gamma': 1.9935815359960574, 'lambda_sparse': 0.0001877617399799128, 'learning_rate': 0.000692226370204052, 'batch_size': 256}
+[2025-04-27 23:38:29] Best Validation Accuracy: 0.3878
+
+[2025-04-27 23:39:16] Trial 1:
+[2025-04-27 23:39:16] Params: {'n_d': 49, 'n_a': 59, 'n_steps': 4, 'gamma': 1.3241516637982318, 'lambda_sparse': 0.0009021798537197697, 'learning_rate': 0.0022444383110845675, 'batch_size': 256}
+[2025-04-27 23:39:16] Best Validation Accuracy: 0.5270
+
+[2025-04-27 23:39:59] Trial 2:
+[2025-04-27 23:39:59] Params: {'n_d': 19, 'n_a': 18, 'n_steps': 3, 'gamma': 1.3069064646532347, 'lambda_sparse': 0.0014970819248193224, 'learning_rate': 0.002668994485460326, 'batch_size': 256}
+[2025-04-27 23:39:59] Best Validation Accuracy: 0.5212
+
+[2025-04-27 23:42:38] Trial 3:
+[2025-04-27 23:42:38] Params: {'n_d': 49, 'n_a': 21, 'n_steps': 4, 'gamma': 1.5621010314644768, 'lambda_sparse': 0.0002991743674126023, 'learning_rate': 0.004707317406845521, 'batch_size': 64}
+[2025-04-27 23:42:38] Best Validation Accuracy: 0.5313
+
+[2025-04-27 23:46:13] Trial 4:
+[2025-04-27 23:46:13] Params: {'n_d': 10, 'n_a': 31, 'n_steps': 5, 'gamma': 1.2113103103742877, 'lambda_sparse': 0.0006478485173697001, 'learning_rate': 0.0001141809061975274, 'batch_size': 64}
+[2025-04-27 23:46:13] Best Validation Accuracy: 0.3110
+
+[2025-04-27 23:46:59] Trial 5:
+[2025-04-27 23:46:59] Params: {'n_d': 28, 'n_a': 57, 'n_steps': 4, 'gamma': 1.0440076255660768, 'lambda_sparse': 0.0006614528324421624, 'learning_rate': 0.0028343587483688833, 'batch_size': 256}
+[2025-04-27 23:46:59] Best Validation Accuracy: 0.5251
+
+[2025-04-27 23:50:15] Trial 6:
+[2025-04-27 23:50:15] Params: {'n_d': 39, 'n_a': 61, 'n_steps': 5, 'gamma': 1.749894876215048, 'lambda_sparse': 0.002051338810832497, 'learning_rate': 0.0015734499748937252, 'batch_size': 64}
+[2025-04-27 23:50:15] Best Validation Accuracy: 0.5167
+
+[2025-04-27 23:51:31] Trial 7:
+[2025-04-27 23:51:31] Params: {'n_d': 30, 'n_a': 33, 'n_steps': 3, 'gamma': 1.906364292088428, 'lambda_sparse': 0.0004345307394602817, 'learning_rate': 0.00017379455814216596, 'batch_size': 128}
+[2025-04-27 23:51:31] Best Validation Accuracy: 0.3869
+
+[2025-04-27 23:57:26] Trial 8:
+[2025-04-27 23:57:26] Params: {'n_d': 32, 'n_a': 60, 'n_steps': 4, 'gamma': 1.9033115450090308, 'lambda_sparse': 0.0016522452996668457, 'learning_rate': 0.0004356697192482648, 'batch_size': 32}
+[2025-04-27 23:57:26] Best Validation Accuracy: 0.5079
+
+[2025-04-28 00:04:31] Trial 9:
+[2025-04-28 00:04:31] Params: {'n_d': 48, 'n_a': 50, 'n_steps': 5, 'gamma': 1.338310870329992, 'lambda_sparse': 0.0007027522870843377, 'learning_rate': 0.0002715270835745897, 'batch_size': 32}
+[2025-04-28 00:04:31] Best Validation Accuracy: 0.5111
+
+[2025-04-28 00:05:36] Trial 10:
+[2025-04-28 00:05:36] Params: {'n_d': 63, 'n_a': 25, 'n_steps': 2, 'gamma': 1.6203723483007826, 'lambda_sparse': 0.007511041659707295, 'learning_rate': 0.006614326361558759, 'batch_size': 64}
+[2025-04-28 00:05:36] Best Validation Accuracy: 0.5294
+
+[2025-04-28 00:06:52] Trial 11:
+[2025-04-28 00:06:52] Params: {'n_d': 64, 'n_a': 23, 'n_steps': 2, 'gamma': 1.5978815832275914, 'lambda_sparse': 0.007976193392562623, 'learning_rate': 0.009265245249399959, 'batch_size': 64}
+[2025-04-28 00:06:52] Best Validation Accuracy: 0.5442
+
+[2025-04-28 00:08:24] Trial 12:
+[2025-04-28 00:08:24] Params: {'n_d': 63, 'n_a': 41, 'n_steps': 3, 'gamma': 1.5442781835193327, 'lambda_sparse': 0.008804992858552777, 'learning_rate': 0.008573078422974287, 'batch_size': 64}
+[2025-04-28 00:08:24] Best Validation Accuracy: 0.5341
+
+[2025-04-28 00:09:34] Trial 13:
+[2025-04-28 00:09:34] Params: {'n_d': 63, 'n_a': 42, 'n_steps': 2, 'gamma': 1.7160386948978141, 'lambda_sparse': 0.009969887568754218, 'learning_rate': 0.00902793010278725, 'batch_size': 64}
+[2025-04-28 00:09:34] Best Validation Accuracy: 0.5384
+
+[2025-04-28 00:10:13] Trial 14:
+[2025-04-28 00:10:13] Params: {'n_d': 56, 'n_a': 9, 'n_steps': 2, 'gamma': 1.693169731182511, 'lambda_sparse': 0.0041894985098684156, 'learning_rate': 0.009787174663756216, 'batch_size': 128}
+[2025-04-28 00:10:13] Best Validation Accuracy: 0.5358
+
+[2025-04-28 00:11:36] Trial 15:
+[2025-04-28 00:11:36] Params: {'n_d': 58, 'n_a': 42, 'n_steps': 2, 'gamma': 1.7631660402580782, 'lambda_sparse': 0.0036042882119011743, 'learning_rate': 0.004638557847962496, 'batch_size': 64}
+[2025-04-28 00:11:36] Best Validation Accuracy: 0.5391
+
+[2025-04-28 00:13:18] Trial 16:
+[2025-04-28 00:13:18] Params: {'n_d': 55, 'n_a': 48, 'n_steps': 3, 'gamma': 1.4284156955568168, 'lambda_sparse': 0.003965806604184208, 'learning_rate': 0.00424393070907839, 'batch_size': 64}
+[2025-04-28 00:13:18] Best Validation Accuracy: 0.5343
+
+[2025-04-28 00:15:01] Trial 17:
+[2025-04-28 00:15:01] Params: {'n_d': 41, 'n_a': 30, 'n_steps': 2, 'gamma': 1.8181526565347619, 'lambda_sparse': 0.0031656550097739684, 'learning_rate': 0.0009418256361649134, 'batch_size': 64}
+[2025-04-28 00:15:01] Best Validation Accuracy: 0.5335
+
+[2025-04-28 00:15:35] Trial 18:
+[2025-04-28 00:15:35] Params: {'n_d': 54, 'n_a': 39, 'n_steps': 2, 'gamma': 1.4403106904724128, 'lambda_sparse': 0.005593404801988141, 'learning_rate': 0.005057227855614417, 'batch_size': 128}
+[2025-04-28 00:15:35] Best Validation Accuracy: 0.5244
+
+[2025-04-28 00:19:52] Trial 19:
+[2025-04-28 00:19:52] Params: {'n_d': 44, 'n_a': 26, 'n_steps': 3, 'gamma': 1.6174165476260352, 'lambda_sparse': 0.002378661801934898, 'learning_rate': 0.0015140655002601109, 'batch_size': 32}
+[2025-04-28 00:19:52] Best Validation Accuracy: 0.5352
+
+[2025-04-28 00:21:12] Trial 20:
+[2025-04-28 00:21:12] Params: {'n_d': 58, 'n_a': 47, 'n_steps': 2, 'gamma': 1.7987331769723125, 'lambda_sparse': 0.0052838520083308416, 'learning_rate': 0.0035812349983563602, 'batch_size': 64}
+[2025-04-28 00:21:12] Best Validation Accuracy: 0.5352
+
+[2025-04-28 00:22:16] Trial 21:
+[2025-04-28 00:22:16] Params: {'n_d': 64, 'n_a': 43, 'n_steps': 2, 'gamma': 1.7040126307388763, 'lambda_sparse': 0.00993934138942387, 'learning_rate': 0.006556726191804058, 'batch_size': 64}
+[2025-04-28 00:22:16] Best Validation Accuracy: 0.5382
+
+[2025-04-28 00:23:27] Trial 22:
+[2025-04-28 00:23:27] Params: {'n_d': 59, 'n_a': 37, 'n_steps': 2, 'gamma': 1.6787951057916521, 'lambda_sparse': 0.007155349933508142, 'learning_rate': 0.009801354343147184, 'batch_size': 64}
+[2025-04-28 00:23:27] Best Validation Accuracy: 0.5393
+
+[2025-04-28 00:24:58] Trial 23:
+[2025-04-28 00:24:58] Params: {'n_d': 58, 'n_a': 36, 'n_steps': 3, 'gamma': 1.6283567166052644, 'lambda_sparse': 0.006430035783524368, 'learning_rate': 0.006737867109949948, 'batch_size': 64}
+[2025-04-28 00:24:58] Best Validation Accuracy: 0.5287
+
+[2025-04-28 00:26:13] Trial 24:
+[2025-04-28 00:26:13] Params: {'n_d': 52, 'n_a': 53, 'n_steps': 2, 'gamma': 1.4782131008876276, 'lambda_sparse': 0.0029353328659869607, 'learning_rate': 0.005534669403297562, 'batch_size': 64}
+[2025-04-28 00:26:13] Best Validation Accuracy: 0.5360
+
+[2025-04-28 00:27:29] Trial 25:
+[2025-04-28 00:27:29] Params: {'n_d': 60, 'n_a': 36, 'n_steps': 2, 'gamma': 1.8814515139537167, 'lambda_sparse': 0.004476529489596367, 'learning_rate': 0.00980125954517545, 'batch_size': 64}
+[2025-04-28 00:27:29] Best Validation Accuracy: 0.5395
+
+[2025-04-28 00:29:08] Trial 26:
+[2025-04-28 00:29:08] Params: {'n_d': 45, 'n_a': 27, 'n_steps': 3, 'gamma': 1.875889179501787, 'lambda_sparse': 0.00011421947005652719, 'learning_rate': 0.009862325636676042, 'batch_size': 64}
+[2025-04-28 00:29:08] Best Validation Accuracy: 0.5384
+
+[2025-04-28 00:29:50] Trial 27:
+[2025-04-28 00:29:50] Params: {'n_d': 60, 'n_a': 35, 'n_steps': 2, 'gamma': 1.9566404774302757, 'lambda_sparse': 0.005224157564362522, 'learning_rate': 0.003615069880546071, 'batch_size': 128}
+[2025-04-28 00:29:50] Best Validation Accuracy: 0.5240
+
+[2025-04-28 00:34:19] Trial 28:
+[2025-04-28 00:34:19] Params: {'n_d': 52, 'n_a': 10, 'n_steps': 3, 'gamma': 1.8448562229815233, 'lambda_sparse': 0.0014061934217351275, 'learning_rate': 0.0018453368829419402, 'batch_size': 32}
+[2025-04-28 00:34:19] Best Validation Accuracy: 0.5367
+
+[2025-04-28 00:34:53] Trial 29:
+[2025-04-28 00:34:53] Params: {'n_d': 19, 'n_a': 21, 'n_steps': 2, 'gamma': 1.6656659055163932, 'lambda_sparse': 0.005918972829925829, 'learning_rate': 0.0007246426781369528, 'batch_size': 256}
+[2025-04-28 00:34:53] Best Validation Accuracy: 0.4345
+
+[2025-04-28 00:36:03] Trial 30:
+[2025-04-28 00:36:03] Params: {'n_d': 60, 'n_a': 12, 'n_steps': 2, 'gamma': 1.9268174808632266, 'lambda_sparse': 0.007332241686708868, 'learning_rate': 0.007362659147635729, 'batch_size': 64}
+[2025-04-28 00:36:03] Best Validation Accuracy: 0.5395
+
+[2025-04-28 00:37:23] Trial 31:
+[2025-04-28 00:37:23] Params: {'n_d': 60, 'n_a': 14, 'n_steps': 2, 'gamma': 1.9605283759579493, 'lambda_sparse': 0.00719387549734355, 'learning_rate': 0.006932817026679139, 'batch_size': 64}
+[2025-04-28 00:37:23] Best Validation Accuracy: 0.5397
+
+[2025-04-28 00:38:46] Trial 32:
+[2025-04-28 00:38:46] Params: {'n_d': 61, 'n_a': 14, 'n_steps': 2, 'gamma': 1.9995315499365451, 'lambda_sparse': 0.0045402614560779864, 'learning_rate': 0.006821643782383876, 'batch_size': 64}
+[2025-04-28 00:38:46] Best Validation Accuracy: 0.5397
+
+[2025-04-28 00:40:04] Trial 33:
+[2025-04-28 00:40:04] Params: {'n_d': 52, 'n_a': 15, 'n_steps': 2, 'gamma': 1.9787918508806621, 'lambda_sparse': 0.002345384597283801, 'learning_rate': 0.0028597394303311384, 'batch_size': 64}
+[2025-04-28 00:40:04] Best Validation Accuracy: 0.5300
+
+[2025-04-28 00:40:26] Trial 34:
+[2025-04-28 00:40:26] Params: {'n_d': 61, 'n_a': 16, 'n_steps': 2, 'gamma': 1.9651415290298735, 'lambda_sparse': 0.0043236793822486914, 'learning_rate': 0.005789139210480358, 'batch_size': 256}
+[2025-04-28 00:40:26] Best Validation Accuracy: 0.5173
+
+[2025-04-28 00:42:24] Trial 35:
+[2025-04-28 00:42:24] Params: {'n_d': 48, 'n_a': 21, 'n_steps': 3, 'gamma': 1.841608725864353, 'lambda_sparse': 0.0012735777931805233, 'learning_rate': 0.003735524980690362, 'batch_size': 64}
+[2025-04-28 00:42:24] Best Validation Accuracy: 0.5298
+
+[2025-04-28 00:44:11] Trial 36:
+[2025-04-28 00:44:11] Params: {'n_d': 20, 'n_a': 13, 'n_steps': 2, 'gamma': 1.994639671661476, 'lambda_sparse': 0.0030077874694194196, 'learning_rate': 0.0022570736099066235, 'batch_size': 64}
+[2025-04-28 00:44:11] Best Validation Accuracy: 0.5328
+
+[2025-04-28 00:44:36] Trial 37:
+[2025-04-28 00:44:36] Params: {'n_d': 55, 'n_a': 20, 'n_steps': 3, 'gamma': 1.1555390954363796, 'lambda_sparse': 0.004695220760322461, 'learning_rate': 0.007264234735795464, 'batch_size': 256}
+[2025-04-28 00:44:36] Best Validation Accuracy: 0.5274
+
+[2025-04-28 00:46:57] Trial 38:
+[2025-04-28 00:46:57] Params: {'n_d': 23, 'n_a': 17, 'n_steps': 4, 'gamma': 1.998409445002793, 'lambda_sparse': 0.0009620316169723922, 'learning_rate': 0.005317921777085316, 'batch_size': 64}
+[2025-04-28 00:46:57] Best Validation Accuracy: 0.5365
+
+[2025-04-28 00:48:37] Trial 39:
+[2025-04-28 00:48:37] Params: {'n_d': 36, 'n_a': 23, 'n_steps': 2, 'gamma': 1.895533291261318, 'lambda_sparse': 0.0002851938049922112, 'learning_rate': 0.003113285328926183, 'batch_size': 64}
+[2025-04-28 00:48:37] Best Validation Accuracy: 0.5393
+
+[2025-04-28 00:50:11] Trial 40:
+[2025-04-28 00:50:11] Params: {'n_d': 64, 'n_a': 29, 'n_steps': 4, 'gamma': 1.7903218208181828, 'lambda_sparse': 0.0017631741299127671, 'learning_rate': 0.00039080115032678946, 'batch_size': 128}
+[2025-04-28 00:50:11] Best Validation Accuracy: 0.4792
+
+[2025-04-28 00:51:18] Trial 41:
+[2025-04-28 00:51:18] Params: {'n_d': 61, 'n_a': 12, 'n_steps': 2, 'gamma': 1.9092462907081864, 'lambda_sparse': 0.007211250038174211, 'learning_rate': 0.0070300439502018605, 'batch_size': 64}
+[2025-04-28 00:51:18] Best Validation Accuracy: 0.5328
+
+[2025-04-28 00:52:26] Trial 42:
+[2025-04-28 00:52:26] Params: {'n_d': 57, 'n_a': 12, 'n_steps': 2, 'gamma': 1.9367725895611534, 'lambda_sparse': 0.008568666970488432, 'learning_rate': 0.008104854661269695, 'batch_size': 64}
+[2025-04-28 00:52:26] Best Validation Accuracy: 0.5384
+
+[2025-04-28 00:53:49] Trial 43:
+[2025-04-28 00:53:49] Params: {'n_d': 50, 'n_a': 8, 'n_steps': 2, 'gamma': 1.865596336642472, 'lambda_sparse': 0.006723040619874362, 'learning_rate': 0.007748243746610201, 'batch_size': 64}
+[2025-04-28 00:53:49] Best Validation Accuracy: 0.5397
+
+[2025-04-28 00:55:20] Trial 44:
+[2025-04-28 00:55:20] Params: {'n_d': 13, 'n_a': 9, 'n_steps': 2, 'gamma': 1.8646596922052092, 'lambda_sparse': 0.005689039164334114, 'learning_rate': 0.004246299043335107, 'batch_size': 64}
+[2025-04-28 00:55:20] Best Validation Accuracy: 0.5294
+
+[2025-04-28 01:01:47] Trial 45:
+[2025-04-28 01:01:47] Params: {'n_d': 50, 'n_a': 15, 'n_steps': 5, 'gamma': 1.746804352870004, 'lambda_sparse': 0.0032986602267327213, 'learning_rate': 0.005948805170052462, 'batch_size': 32}
+[2025-04-28 01:01:47] Best Validation Accuracy: 0.5406
+
+[2025-04-28 01:08:51] Trial 46:
+[2025-04-28 01:08:51] Params: {'n_d': 46, 'n_a': 8, 'n_steps': 5, 'gamma': 1.7636747073577024, 'lambda_sparse': 0.0035894352797223327, 'learning_rate': 0.00011282402125880597, 'batch_size': 32}
+[2025-04-28 01:08:51] Best Validation Accuracy: 0.3843
+
+[2025-04-28 01:14:52] Trial 47:
+[2025-04-28 01:14:52] Params: {'n_d': 50, 'n_a': 19, 'n_steps': 5, 'gamma': 1.5381657587853528, 'lambda_sparse': 0.008680166047897763, 'learning_rate': 0.0023115102187838145, 'batch_size': 32}
+[2025-04-28 01:14:52] Best Validation Accuracy: 0.5300
+
+[2025-04-28 01:21:35] Trial 48:
+[2025-04-28 01:21:35] Params: {'n_d': 41, 'n_a': 15, 'n_steps': 5, 'gamma': 1.7398307207073958, 'lambda_sparse': 0.0025380854613880513, 'learning_rate': 0.005997777963902, 'batch_size': 32}
+[2025-04-28 01:21:35] Best Validation Accuracy: 0.5414
+
+[2025-04-28 01:28:16] Trial 49:
+[2025-04-28 01:28:16] Params: {'n_d': 37, 'n_a': 23, 'n_steps': 5, 'gamma': 1.7345712548286483, 'lambda_sparse': 0.002563544425601823, 'learning_rate': 0.005553073644736988, 'batch_size': 32}
+[2025-04-28 01:28:16] Best Validation Accuracy: 0.5386
+
+[2025-04-28 01:35:25] Trial 50:
+[2025-04-28 01:35:25] Params: {'n_d': 42, 'n_a': 18, 'n_steps': 5, 'gamma': 1.6016641456345977, 'lambda_sparse': 0.0018685083695186807, 'learning_rate': 0.0014140989724293603, 'batch_size': 32}
+[2025-04-28 01:35:25] Best Validation Accuracy: 0.5249
+
+[2025-04-28 01:41:50] Trial 51:
+[2025-04-28 01:41:50] Params: {'n_d': 35, 'n_a': 14, 'n_steps': 5, 'gamma': 1.814995445920867, 'lambda_sparse': 0.0035337432131006485, 'learning_rate': 0.007971671104795856, 'batch_size': 32}
+[2025-04-28 01:41:50] Best Validation Accuracy: 0.5419
+
+[2025-04-28 01:47:14] Trial 52:
+[2025-04-28 01:47:14] Params: {'n_d': 33, 'n_a': 15, 'n_steps': 5, 'gamma': 1.7930438020943196, 'lambda_sparse': 0.0038111500846722724, 'learning_rate': 0.0061849057871308216, 'batch_size': 32}
+[2025-04-28 01:47:14] Best Validation Accuracy: 0.5332
+
+[2025-04-28 01:52:29] Trial 53:
+[2025-04-28 01:52:29] Params: {'n_d': 28, 'n_a': 64, 'n_steps': 4, 'gamma': 1.6670190573290167, 'lambda_sparse': 0.0011452495973880213, 'learning_rate': 0.004620002630627175, 'batch_size': 32}
+[2025-04-28 01:52:29] Best Validation Accuracy: 0.5429
+
+[2025-04-28 01:57:38] Trial 54:
+[2025-04-28 01:57:38] Params: {'n_d': 29, 'n_a': 55, 'n_steps': 4, 'gamma': 1.5606626244058643, 'lambda_sparse': 0.000753681791088492, 'learning_rate': 0.0045867709246927004, 'batch_size': 32}
+[2025-04-28 01:57:38] Best Validation Accuracy: 0.5414
+
+[2025-04-28 02:02:32] Trial 55:
+[2025-04-28 02:02:32] Params: {'n_d': 26, 'n_a': 62, 'n_steps': 4, 'gamma': 1.577422817894773, 'lambda_sparse': 0.0007014880577066667, 'learning_rate': 0.004512844788098196, 'batch_size': 32}
+[2025-04-28 02:02:32] Best Validation Accuracy: 0.5492
+
+[2025-04-28 02:07:08] Trial 56:
+[2025-04-28 02:07:08] Params: {'n_d': 27, 'n_a': 64, 'n_steps': 4, 'gamma': 1.5795403898356088, 'lambda_sparse': 0.0005347583806557519, 'learning_rate': 0.0045945817395016495, 'batch_size': 32}
+[2025-04-28 02:07:08] Best Validation Accuracy: 0.5423
+
+[2025-04-28 02:12:19] Trial 57:
+[2025-04-28 02:12:19] Params: {'n_d': 27, 'n_a': 64, 'n_steps': 4, 'gamma': 1.5037518835927735, 'lambda_sparse': 0.0005366412893949933, 'learning_rate': 0.004538903146211811, 'batch_size': 32}
+[2025-04-28 02:12:19] Best Validation Accuracy: 0.5464
+
+[2025-04-28 02:17:43] Trial 58:
+[2025-04-28 02:17:43] Params: {'n_d': 26, 'n_a': 64, 'n_steps': 4, 'gamma': 1.3428732525408038, 'lambda_sparse': 0.0005338667293369294, 'learning_rate': 0.0032412904069885227, 'batch_size': 32}
+[2025-04-28 02:17:43] Best Validation Accuracy: 0.5414
+
+[2025-04-28 02:23:28] Trial 59:
+[2025-04-28 02:23:28] Params: {'n_d': 26, 'n_a': 64, 'n_steps': 4, 'gamma': 1.4974631843139672, 'lambda_sparse': 0.00035549692616478133, 'learning_rate': 0.002547272625439762, 'batch_size': 32}
+[2025-04-28 02:23:28] Best Validation Accuracy: 0.5447
+
+[2025-04-28 02:29:26] Trial 60:
+[2025-04-28 02:29:26] Params: {'n_d': 26, 'n_a': 64, 'n_steps': 4, 'gamma': 1.5066167558956276, 'lambda_sparse': 0.0003546921833770917, 'learning_rate': 0.0026083534373474437, 'batch_size': 32}
+[2025-04-28 02:29:26] Best Validation Accuracy: 0.5453
+
+[2025-04-28 02:35:13] Trial 61:
+[2025-04-28 02:35:13] Params: {'n_d': 26, 'n_a': 64, 'n_steps': 4, 'gamma': 1.498196244697111, 'lambda_sparse': 0.00033887488426476717, 'learning_rate': 0.0025201776579996515, 'batch_size': 32}
+[2025-04-28 02:35:13] Best Validation Accuracy: 0.5459
+
+[2025-04-28 02:40:38] Trial 62:
+[2025-04-28 02:40:38] Params: {'n_d': 24, 'n_a': 59, 'n_steps': 4, 'gamma': 1.5027037415557554, 'lambda_sparse': 0.0003147275921894798, 'learning_rate': 0.001787851183395741, 'batch_size': 32}
+[2025-04-28 02:40:38] Best Validation Accuracy: 0.5341
+
+[2025-04-28 02:46:34] Trial 63:
+[2025-04-28 02:46:34] Params: {'n_d': 32, 'n_a': 62, 'n_steps': 4, 'gamma': 1.3997108339546191, 'lambda_sparse': 0.0003639252570913529, 'learning_rate': 0.0011930897163011066, 'batch_size': 32}
+[2025-04-28 02:46:34] Best Validation Accuracy: 0.5352
+
+[2025-04-28 02:51:24] Trial 64:
+[2025-04-28 02:51:24] Params: {'n_d': 21, 'n_a': 57, 'n_steps': 4, 'gamma': 1.5009610718795998, 'lambda_sparse': 0.00020221481492017131, 'learning_rate': 0.0025254948013916628, 'batch_size': 32}
+[2025-04-28 02:51:24] Best Validation Accuracy: 0.5395
+
+[2025-04-28 02:56:47] Trial 65:
+[2025-04-28 02:56:47] Params: {'n_d': 30, 'n_a': 62, 'n_steps': 4, 'gamma': 1.6541979824274544, 'lambda_sparse': 0.0002122775410275128, 'learning_rate': 0.0020186865442018455, 'batch_size': 32}
+[2025-04-28 02:56:47] Best Validation Accuracy: 0.5401
+
+[2025-04-28 03:02:37] Trial 66:
+[2025-04-28 03:02:37] Params: {'n_d': 16, 'n_a': 57, 'n_steps': 4, 'gamma': 1.464780564435276, 'lambda_sparse': 0.0005854591669436263, 'learning_rate': 0.003774045389279026, 'batch_size': 32}
+[2025-04-28 03:02:37] Best Validation Accuracy: 0.5397
+
+[2025-04-28 03:08:09] Trial 67:
+[2025-04-28 03:08:09] Params: {'n_d': 25, 'n_a': 61, 'n_steps': 4, 'gamma': 1.5205103687676793, 'lambda_sparse': 0.00043078282968670464, 'learning_rate': 0.002681877663284917, 'batch_size': 32}
+[2025-04-28 03:08:09] Best Validation Accuracy: 0.5380
+
+[2025-04-28 03:14:05] Trial 68:
+[2025-04-28 03:14:05] Params: {'n_d': 22, 'n_a': 53, 'n_steps': 4, 'gamma': 1.4148617546347024, 'lambda_sparse': 0.0008034988597007764, 'learning_rate': 0.00014768258356660959, 'batch_size': 32}
+[2025-04-28 03:14:05] Best Validation Accuracy: 0.4353
+
+[2025-04-28 03:19:59] Trial 69:
+[2025-04-28 03:19:59] Params: {'n_d': 28, 'n_a': 59, 'n_steps': 4, 'gamma': 1.3796026324051356, 'lambda_sparse': 0.00024679536688389844, 'learning_rate': 0.0009642032446989557, 'batch_size': 32}
+[2025-04-28 03:19:59] Best Validation Accuracy: 0.5300
+
+[2025-04-28 03:21:06] Trial 70:
+[2025-04-28 03:21:06] Params: {'n_d': 31, 'n_a': 64, 'n_steps': 4, 'gamma': 1.2739837589097327, 'lambda_sparse': 0.00015583563702247345, 'learning_rate': 0.0031144713722379737, 'batch_size': 128}
+[2025-04-28 03:21:06] Best Validation Accuracy: 0.5345
+
+[2025-04-28 03:26:21] Trial 71:
+[2025-04-28 03:26:21] Params: {'n_d': 27, 'n_a': 64, 'n_steps': 4, 'gamma': 1.5681872491343627, 'lambda_sparse': 0.00047088745020833493, 'learning_rate': 0.004209239755849709, 'batch_size': 32}
+[2025-04-28 03:26:21] Best Validation Accuracy: 0.5416
+
+[2025-04-28 03:31:07] Trial 72:
+[2025-04-28 03:31:07] Params: {'n_d': 17, 'n_a': 62, 'n_steps': 4, 'gamma': 1.4511888875786674, 'lambda_sparse': 0.00036052587829359784, 'learning_rate': 0.004997435212777072, 'batch_size': 32}
+[2025-04-28 03:31:07] Best Validation Accuracy: 0.5462
+
+[2025-04-28 03:36:45] Trial 73:
+[2025-04-28 03:36:45] Params: {'n_d': 19, 'n_a': 62, 'n_steps': 4, 'gamma': 1.4589839109630431, 'lambda_sparse': 0.0003770619368009071, 'learning_rate': 0.0019501368940999116, 'batch_size': 32}
+[2025-04-28 03:36:45] Best Validation Accuracy: 0.5371
+
+[2025-04-28 03:41:54] Trial 74:
+[2025-04-28 03:41:54] Params: {'n_d': 17, 'n_a': 60, 'n_steps': 4, 'gamma': 1.650762508469836, 'lambda_sparse': 0.0012344181739629755, 'learning_rate': 0.005003768336091369, 'batch_size': 32}
+[2025-04-28 03:41:54] Best Validation Accuracy: 0.5391
+
+[2025-04-28 03:46:41] Trial 75:
+[2025-04-28 03:46:41] Params: {'n_d': 8, 'n_a': 55, 'n_steps': 4, 'gamma': 1.6002459646010097, 'lambda_sparse': 0.00031956485073138333, 'learning_rate': 0.0034612453719957996, 'batch_size': 32}
+[2025-04-28 03:46:41] Best Validation Accuracy: 0.5369
+
+[2025-04-28 03:47:31] Trial 76:
+[2025-04-28 03:47:31] Params: {'n_d': 25, 'n_a': 61, 'n_steps': 4, 'gamma': 1.5291246386507775, 'lambda_sparse': 0.0006609428390337177, 'learning_rate': 0.0025212636557978858, 'batch_size': 256}
+[2025-04-28 03:47:31] Best Validation Accuracy: 0.5259
+
+[2025-04-28 03:52:15] Trial 77:
+[2025-04-28 03:52:15] Params: {'n_d': 34, 'n_a': 59, 'n_steps': 4, 'gamma': 1.4879944035135682, 'lambda_sparse': 0.0002668111651244504, 'learning_rate': 0.004050853854566057, 'batch_size': 32}
+[2025-04-28 03:52:15] Best Validation Accuracy: 0.5311
+
+[2025-04-28 03:58:11] Trial 78:
+[2025-04-28 03:58:11] Params: {'n_d': 17, 'n_a': 63, 'n_steps': 4, 'gamma': 1.4427363362631334, 'lambda_sparse': 0.0003851620298242641, 'learning_rate': 0.0012940708906861156, 'batch_size': 32}
+[2025-04-28 03:58:11] Best Validation Accuracy: 0.5345
+
+[2025-04-28 04:02:06] Trial 79:
+[2025-04-28 04:02:06] Params: {'n_d': 23, 'n_a': 57, 'n_steps': 3, 'gamma': 1.3772857771488114, 'lambda_sparse': 0.0008614746942911334, 'learning_rate': 0.002904264885450934, 'batch_size': 32}
+[2025-04-28 04:02:06] Best Validation Accuracy: 0.5380
+
+[2025-04-28 04:03:40] Trial 80:
+[2025-04-28 04:03:40] Params: {'n_d': 38, 'n_a': 55, 'n_steps': 4, 'gamma': 1.6303984126497086, 'lambda_sparse': 0.0010866770288881847, 'learning_rate': 0.0007599075431589499, 'batch_size': 128}
+[2025-04-28 04:03:40] Best Validation Accuracy: 0.5078
+
+[2025-04-28 04:08:50] Trial 81:
+[2025-04-28 04:08:50] Params: {'n_d': 27, 'n_a': 64, 'n_steps': 4, 'gamma': 1.5522070840396303, 'lambda_sparse': 0.0005164082552711165, 'learning_rate': 0.004826054418479571, 'batch_size': 32}
+[2025-04-28 04:08:50] Best Validation Accuracy: 0.5414
+
+[2025-04-28 04:13:37] Trial 82:
+[2025-04-28 04:13:37] Params: {'n_d': 29, 'n_a': 60, 'n_steps': 4, 'gamma': 1.5822589085860062, 'lambda_sparse': 0.0004280238618805353, 'learning_rate': 0.004572747128320686, 'batch_size': 32}
+[2025-04-28 04:13:37] Best Validation Accuracy: 0.5386
+
+[2025-04-28 04:17:45] Trial 83:
+[2025-04-28 04:17:45] Params: {'n_d': 26, 'n_a': 62, 'n_steps': 4, 'gamma': 1.591117123915981, 'lambda_sparse': 0.0005839097924964368, 'learning_rate': 0.008724991210760953, 'batch_size': 32}
+[2025-04-28 04:17:45] Best Validation Accuracy: 0.5408
+
+[2025-04-28 04:23:13] Trial 84:
+[2025-04-28 04:23:13] Params: {'n_d': 13, 'n_a': 63, 'n_steps': 4, 'gamma': 1.6927564140688451, 'lambda_sparse': 0.00035388372005920246, 'learning_rate': 0.003299074038243392, 'batch_size': 32}
+[2025-04-28 04:23:13] Best Validation Accuracy: 0.5378
+
+[2025-04-28 04:24:04] Trial 85:
+[2025-04-28 04:24:04] Params: {'n_d': 21, 'n_a': 58, 'n_steps': 4, 'gamma': 1.5098155336336214, 'lambda_sparse': 0.0004707932858781229, 'learning_rate': 0.003896992302644874, 'batch_size': 256}
+[2025-04-28 04:24:04] Best Validation Accuracy: 0.5236
+
+[2025-04-28 04:28:55] Trial 86:
+[2025-04-28 04:28:55] Params: {'n_d': 31, 'n_a': 46, 'n_steps': 4, 'gamma': 1.483544902000235, 'lambda_sparse': 0.0002435005760388638, 'learning_rate': 0.0021793266673363573, 'batch_size': 32}
+[2025-04-28 04:28:55] Best Validation Accuracy: 0.5326
+
+[2025-04-28 04:33:01] Trial 87:
+[2025-04-28 04:33:01] Params: {'n_d': 24, 'n_a': 32, 'n_steps': 3, 'gamma': 1.6182089289964783, 'lambda_sparse': 0.00016278797032278817, 'learning_rate': 0.0029074926793548487, 'batch_size': 32}
+[2025-04-28 04:33:01] Best Validation Accuracy: 0.5380
+
+[2025-04-28 04:38:25] Trial 88:
+[2025-04-28 04:38:25] Params: {'n_d': 29, 'n_a': 63, 'n_steps': 4, 'gamma': 1.5426888596734407, 'lambda_sparse': 0.000565609778455548, 'learning_rate': 0.005406987785414082, 'batch_size': 32}
+[2025-04-28 04:38:25] Best Validation Accuracy: 0.5462
+
+[2025-04-28 04:44:21] Trial 89:
+[2025-04-28 04:44:21] Params: {'n_d': 29, 'n_a': 61, 'n_steps': 4, 'gamma': 1.5384831508175394, 'lambda_sparse': 0.0007194532112661155, 'learning_rate': 0.0016273083679790646, 'batch_size': 32}
+[2025-04-28 04:44:21] Best Validation Accuracy: 0.5320
+
+[2025-04-28 04:49:42] Trial 90:
+[2025-04-28 04:49:42] Params: {'n_d': 23, 'n_a': 52, 'n_steps': 4, 'gamma': 1.446031435208993, 'lambda_sparse': 0.0005789918990634653, 'learning_rate': 0.005065067559360507, 'batch_size': 32}
+[2025-04-28 04:49:42] Best Validation Accuracy: 0.5496
+
+[2025-04-28 04:54:44] Trial 91:
+[2025-04-28 04:54:44] Params: {'n_d': 22, 'n_a': 52, 'n_steps': 4, 'gamma': 1.43992885289471, 'lambda_sparse': 0.0003303944850294322, 'learning_rate': 0.005063826900958226, 'batch_size': 32}
+[2025-04-28 04:54:44] Best Validation Accuracy: 0.5431
+
+[2025-04-28 04:59:34] Trial 92:
+[2025-04-28 04:59:34] Params: {'n_d': 22, 'n_a': 51, 'n_steps': 4, 'gamma': 1.4390978784752193, 'lambda_sparse': 0.00033942956854869324, 'learning_rate': 0.00638145925428366, 'batch_size': 32}
+[2025-04-28 04:59:34] Best Validation Accuracy: 0.5419
+
+[2025-04-28 05:04:04] Trial 93:
+[2025-04-28 05:04:04] Params: {'n_d': 18, 'n_a': 51, 'n_steps': 4, 'gamma': 1.4673589966179055, 'lambda_sparse': 0.0004074290413803596, 'learning_rate': 0.005161764908749237, 'batch_size': 32}
+[2025-04-28 05:04:04] Best Validation Accuracy: 0.5440
+
+[2025-04-28 05:09:01] Trial 94:
+[2025-04-28 05:09:01] Params: {'n_d': 18, 'n_a': 49, 'n_steps': 4, 'gamma': 1.463876060095099, 'lambda_sparse': 0.0005889264212286436, 'learning_rate': 0.008814860334820393, 'batch_size': 32}
+[2025-04-28 05:09:01] Best Validation Accuracy: 0.5434
+
+[2025-04-28 05:14:33] Trial 95:
+[2025-04-28 05:14:33] Params: {'n_d': 15, 'n_a': 46, 'n_steps': 4, 'gamma': 1.4119251013951801, 'lambda_sparse': 0.00039871529715838867, 'learning_rate': 0.005594830475286924, 'batch_size': 32}
+[2025-04-28 05:14:33] Best Validation Accuracy: 0.5399
+
+[2025-04-28 05:19:17] Trial 96:
+[2025-04-28 05:19:17] Params: {'n_d': 24, 'n_a': 58, 'n_steps': 4, 'gamma': 1.3576709594727778, 'lambda_sparse': 0.0004697410490321497, 'learning_rate': 0.004082886390618222, 'batch_size': 32}
+[2025-04-28 05:19:17] Best Validation Accuracy: 0.5434
+
+[2025-04-28 05:20:51] Trial 97:
+[2025-04-28 05:20:51] Params: {'n_d': 19, 'n_a': 60, 'n_steps': 4, 'gamma': 1.302767960832945, 'lambda_sparse': 0.0006393184118647868, 'learning_rate': 0.0004976952711183622, 'batch_size': 128}
+[2025-04-28 05:20:51] Best Validation Accuracy: 0.4990
+
+[2025-04-28 05:21:31] Trial 98:
+[2025-04-28 05:21:31] Params: {'n_d': 20, 'n_a': 44, 'n_steps': 4, 'gamma': 1.0159727270030148, 'lambda_sparse': 0.000283578314055571, 'learning_rate': 0.007483791076013802, 'batch_size': 256}
+[2025-04-28 05:21:31] Best Validation Accuracy: 0.5298
+
+[2025-04-28 05:25:25] Trial 99:
+[2025-04-28 05:25:25] Params: {'n_d': 26, 'n_a': 63, 'n_steps': 3, 'gamma': 1.5175412682135978, 'lambda_sparse': 0.0009309376355894663, 'learning_rate': 0.0034841972353781376, 'batch_size': 32}
+[2025-04-28 05:25:25] Best Validation Accuracy: 0.5451
+
+[2025-04-28 05:25:25] 
+Best trial:
+[2025-04-28 05:25:25] Value: 0.5496
+[2025-04-28 05:25:25] Params: {'n_d': 23, 'n_a': 52, 'n_steps': 4, 'gamma': 1.446031435208993, 'lambda_sparse': 0.0005789918990634653, 'learning_rate': 0.005065067559360507, 'batch_size': 32}

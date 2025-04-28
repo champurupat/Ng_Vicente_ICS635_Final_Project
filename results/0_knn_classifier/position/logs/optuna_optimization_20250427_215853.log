@@ -1,0 +1,404 @@
+[2025-04-27 21:58:53] Trial 0:
+[2025-04-27 21:58:53] Params: {'n_neighbors': 10, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:58:53] Accuracy: 0.4562
+
+[2025-04-27 21:58:53] Trial 1:
+[2025-04-27 21:58:53] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:53] Accuracy: 0.4850
+
+[2025-04-27 21:58:53] Trial 2:
+[2025-04-27 21:58:53] Params: {'n_neighbors': 1, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:58:53] Accuracy: 0.3660
+
+[2025-04-27 21:58:53] Trial 3:
+[2025-04-27 21:58:53] Params: {'n_neighbors': 17, 'weights': 'uniform', 'metric': 'minkowski', 'p': 1}
+[2025-04-27 21:58:53] Accuracy: 0.4823
+
+[2025-04-27 21:58:53] Trial 4:
+[2025-04-27 21:58:53] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:53] Accuracy: 0.4803
+
+[2025-04-27 21:58:53] Trial 5:
+[2025-04-27 21:58:53] Params: {'n_neighbors': 5, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:53] Accuracy: 0.4257
+
+[2025-04-27 21:58:53] Trial 6:
+[2025-04-27 21:58:53] Params: {'n_neighbors': 11, 'weights': 'distance', 'metric': 'minkowski', 'p': 1}
+[2025-04-27 21:58:53] Accuracy: 0.4711
+
+[2025-04-27 21:58:54] Trial 7:
+[2025-04-27 21:58:54] Params: {'n_neighbors': 9, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:54] Accuracy: 0.4648
+
+[2025-04-27 21:58:54] Trial 8:
+[2025-04-27 21:58:54] Params: {'n_neighbors': 9, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:54] Accuracy: 0.4648
+
+[2025-04-27 21:58:54] Trial 9:
+[2025-04-27 21:58:54] Params: {'n_neighbors': 4, 'weights': 'uniform', 'metric': 'minkowski', 'p': 3}
+[2025-04-27 21:58:54] Accuracy: 0.4071
+
+[2025-04-27 21:58:54] Trial 10:
+[2025-04-27 21:58:54] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:54] Accuracy: 0.4853
+
+[2025-04-27 21:58:54] Trial 11:
+[2025-04-27 21:58:54] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:54] Accuracy: 0.4853
+
+[2025-04-27 21:58:55] Trial 12:
+[2025-04-27 21:58:55] Params: {'n_neighbors': 14, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:55] Accuracy: 0.4823
+
+[2025-04-27 21:58:55] Trial 13:
+[2025-04-27 21:58:55] Params: {'n_neighbors': 14, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:55] Accuracy: 0.4823
+
+[2025-04-27 21:58:55] Trial 14:
+[2025-04-27 21:58:55] Params: {'n_neighbors': 20, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:55] Accuracy: 0.4833
+
+[2025-04-27 21:58:55] Trial 15:
+[2025-04-27 21:58:55] Params: {'n_neighbors': 13, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:58:55] Accuracy: 0.4646
+
+[2025-04-27 21:58:55] Trial 16:
+[2025-04-27 21:58:55] Params: {'n_neighbors': 17, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:55] Accuracy: 0.4823
+
+[2025-04-27 21:58:55] Trial 17:
+[2025-04-27 21:58:55] Params: {'n_neighbors': 12, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:55] Accuracy: 0.4726
+
+[2025-04-27 21:58:56] Trial 18:
+[2025-04-27 21:58:56] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'minkowski', 'p': 4}
+[2025-04-27 21:58:56] Accuracy: 0.4510
+
+[2025-04-27 21:58:56] Trial 19:
+[2025-04-27 21:58:56] Params: {'n_neighbors': 7, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:58:56] Accuracy: 0.4308
+
+[2025-04-27 21:58:56] Trial 20:
+[2025-04-27 21:58:56] Params: {'n_neighbors': 19, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:56] Accuracy: 0.4777
+
+[2025-04-27 21:58:56] Trial 21:
+[2025-04-27 21:58:56] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:56] Accuracy: 0.4850
+
+[2025-04-27 21:58:56] Trial 22:
+[2025-04-27 21:58:56] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:56] Accuracy: 0.4820
+
+[2025-04-27 21:58:57] Trial 23:
+[2025-04-27 21:58:57] Params: {'n_neighbors': 12, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:57] Accuracy: 0.4749
+
+[2025-04-27 21:58:57] Trial 24:
+[2025-04-27 21:58:57] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:57] Accuracy: 0.4853
+
+[2025-04-27 21:58:57] Trial 25:
+[2025-04-27 21:58:57] Params: {'n_neighbors': 14, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:57] Accuracy: 0.4823
+
+[2025-04-27 21:58:57] Trial 26:
+[2025-04-27 21:58:57] Params: {'n_neighbors': 18, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:57] Accuracy: 0.4801
+
+[2025-04-27 21:58:57] Trial 27:
+[2025-04-27 21:58:57] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:57] Accuracy: 0.4853
+
+[2025-04-27 21:58:58] Trial 28:
+[2025-04-27 21:58:58] Params: {'n_neighbors': 12, 'weights': 'uniform', 'metric': 'minkowski', 'p': 4}
+[2025-04-27 21:58:58] Accuracy: 0.4405
+
+[2025-04-27 21:58:58] Trial 29:
+[2025-04-27 21:58:58] Params: {'n_neighbors': 10, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:58:58] Accuracy: 0.4495
+
+[2025-04-27 21:58:58] Trial 30:
+[2025-04-27 21:58:58] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:58:58] Accuracy: 0.4713
+
+[2025-04-27 21:58:58] Trial 31:
+[2025-04-27 21:58:58] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:58] Accuracy: 0.4853
+
+[2025-04-27 21:58:58] Trial 32:
+[2025-04-27 21:58:58] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:58] Accuracy: 0.4838
+
+[2025-04-27 21:58:59] Trial 33:
+[2025-04-27 21:58:59] Params: {'n_neighbors': 13, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:59] Accuracy: 0.4704
+
+[2025-04-27 21:58:59] Trial 34:
+[2025-04-27 21:58:59] Params: {'n_neighbors': 18, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:59] Accuracy: 0.4801
+
+[2025-04-27 21:58:59] Trial 35:
+[2025-04-27 21:58:59] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:59] Accuracy: 0.4838
+
+[2025-04-27 21:58:59] Trial 36:
+[2025-04-27 21:58:59] Params: {'n_neighbors': 13, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:59] Accuracy: 0.4704
+
+[2025-04-27 21:58:59] Trial 37:
+[2025-04-27 21:58:59] Params: {'n_neighbors': 20, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:58:59] Accuracy: 0.4833
+
+[2025-04-27 21:58:59] Trial 38:
+[2025-04-27 21:58:59] Params: {'n_neighbors': 1, 'weights': 'uniform', 'metric': 'minkowski', 'p': 2}
+[2025-04-27 21:58:59] Accuracy: 0.3660
+
+[2025-04-27 21:59:00] Trial 39:
+[2025-04-27 21:59:00] Params: {'n_neighbors': 18, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:00] Accuracy: 0.4693
+
+[2025-04-27 21:59:00] Trial 40:
+[2025-04-27 21:59:00] Params: {'n_neighbors': 8, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:00] Accuracy: 0.4560
+
+[2025-04-27 21:59:00] Trial 41:
+[2025-04-27 21:59:00] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:00] Accuracy: 0.4853
+
+[2025-04-27 21:59:00] Trial 42:
+[2025-04-27 21:59:00] Params: {'n_neighbors': 11, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:00] Accuracy: 0.4708
+
+[2025-04-27 21:59:00] Trial 43:
+[2025-04-27 21:59:00] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:00] Accuracy: 0.4853
+
+[2025-04-27 21:59:00] Trial 44:
+[2025-04-27 21:59:00] Params: {'n_neighbors': 17, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:00] Accuracy: 0.4823
+
+[2025-04-27 21:59:01] Trial 45:
+[2025-04-27 21:59:01] Params: {'n_neighbors': 14, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:01] Accuracy: 0.4823
+
+[2025-04-27 21:59:01] Trial 46:
+[2025-04-27 21:59:01] Params: {'n_neighbors': 13, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:01] Accuracy: 0.4756
+
+[2025-04-27 21:59:01] Trial 47:
+[2025-04-27 21:59:01] Params: {'n_neighbors': 14, 'weights': 'uniform', 'metric': 'minkowski', 'p': 2}
+[2025-04-27 21:59:01] Accuracy: 0.4702
+
+[2025-04-27 21:59:01] Trial 48:
+[2025-04-27 21:59:01] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:01] Accuracy: 0.4853
+
+[2025-04-27 21:59:01] Trial 49:
+[2025-04-27 21:59:01] Params: {'n_neighbors': 11, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:01] Accuracy: 0.4708
+
+[2025-04-27 21:59:01] Trial 50:
+[2025-04-27 21:59:01] Params: {'n_neighbors': 19, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:01] Accuracy: 0.4803
+
+[2025-04-27 21:59:02] Trial 51:
+[2025-04-27 21:59:02] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:02] Accuracy: 0.4838
+
+[2025-04-27 21:59:02] Trial 52:
+[2025-04-27 21:59:02] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:02] Accuracy: 0.4853
+
+[2025-04-27 21:59:02] Trial 53:
+[2025-04-27 21:59:02] Params: {'n_neighbors': 17, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:02] Accuracy: 0.4823
+
+[2025-04-27 21:59:02] Trial 54:
+[2025-04-27 21:59:02] Params: {'n_neighbors': 14, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:02] Accuracy: 0.4823
+
+[2025-04-27 21:59:02] Trial 55:
+[2025-04-27 21:59:02] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:02] Accuracy: 0.4838
+
+[2025-04-27 21:59:02] Trial 56:
+[2025-04-27 21:59:02] Params: {'n_neighbors': 12, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:02] Accuracy: 0.4726
+
+[2025-04-27 21:59:03] Trial 57:
+[2025-04-27 21:59:03] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:03] Accuracy: 0.4713
+
+[2025-04-27 21:59:03] Trial 58:
+[2025-04-27 21:59:03] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'minkowski', 'p': 3}
+[2025-04-27 21:59:03] Accuracy: 0.4687
+
+[2025-04-27 21:59:03] Trial 59:
+[2025-04-27 21:59:03] Params: {'n_neighbors': 13, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:03] Accuracy: 0.4704
+
+[2025-04-27 21:59:03] Trial 60:
+[2025-04-27 21:59:03] Params: {'n_neighbors': 19, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:03] Accuracy: 0.4777
+
+[2025-04-27 21:59:04] Trial 61:
+[2025-04-27 21:59:04] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:04] Accuracy: 0.4853
+
+[2025-04-27 21:59:04] Trial 62:
+[2025-04-27 21:59:04] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:04] Accuracy: 0.4838
+
+[2025-04-27 21:59:04] Trial 63:
+[2025-04-27 21:59:04] Params: {'n_neighbors': 14, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:04] Accuracy: 0.4823
+
+[2025-04-27 21:59:04] Trial 64:
+[2025-04-27 21:59:04] Params: {'n_neighbors': 15, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:04] Accuracy: 0.4853
+
+[2025-04-27 21:59:04] Trial 65:
+[2025-04-27 21:59:04] Params: {'n_neighbors': 18, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:04] Accuracy: 0.4801
+
+[2025-04-27 21:59:04] Trial 66:
+[2025-04-27 21:59:04] Params: {'n_neighbors': 13, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:04] Accuracy: 0.4704
+
+[2025-04-27 21:59:05] Trial 67:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 16, 'weights': 'uniform', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:05] Accuracy: 0.4838
+
+[2025-04-27 21:59:05] Trial 68:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 12, 'weights': 'uniform', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:05] Accuracy: 0.4571
+
+[2025-04-27 21:59:05] Trial 69:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:05] Accuracy: 0.4863
+
+[2025-04-27 21:59:05] Trial 70:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 14, 'weights': 'distance', 'metric': 'minkowski', 'p': 1}
+[2025-04-27 21:59:05] Accuracy: 0.4810
+
+[2025-04-27 21:59:05] Trial 71:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:05] Accuracy: 0.4863
+
+[2025-04-27 21:59:05] Trial 72:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:05] Accuracy: 0.4820
+
+[2025-04-27 21:59:05] Trial 73:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:05] Accuracy: 0.4850
+
+[2025-04-27 21:59:05] Trial 74:
+[2025-04-27 21:59:05] Params: {'n_neighbors': 5, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:05] Accuracy: 0.4257
+
+[2025-04-27 21:59:06] Trial 75:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 14, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4810
+
+[2025-04-27 21:59:06] Trial 76:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4863
+
+[2025-04-27 21:59:06] Trial 77:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 13, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4756
+
+[2025-04-27 21:59:06] Trial 78:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4820
+
+[2025-04-27 21:59:06] Trial 79:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 18, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4818
+
+[2025-04-27 21:59:06] Trial 80:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'euclidean', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4773
+
+[2025-04-27 21:59:06] Trial 81:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 14, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4810
+
+[2025-04-27 21:59:06] Trial 82:
+[2025-04-27 21:59:06] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:06] Accuracy: 0.4863
+
+[2025-04-27 21:59:07] Trial 83:
+[2025-04-27 21:59:07] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:07] Accuracy: 0.4863
+
+[2025-04-27 21:59:07] Trial 84:
+[2025-04-27 21:59:07] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:07] Accuracy: 0.4850
+
+[2025-04-27 21:59:07] Trial 85:
+[2025-04-27 21:59:07] Params: {'n_neighbors': 14, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:07] Accuracy: 0.4810
+
+[2025-04-27 21:59:07] Trial 86:
+[2025-04-27 21:59:07] Params: {'n_neighbors': 12, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:07] Accuracy: 0.4749
+
+[2025-04-27 21:59:07] Trial 87:
+[2025-04-27 21:59:07] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:07] Accuracy: 0.4863
+
+[2025-04-27 21:59:07] Trial 88:
+[2025-04-27 21:59:07] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:07] Accuracy: 0.4850
+
+[2025-04-27 21:59:08] Trial 89:
+[2025-04-27 21:59:08] Params: {'n_neighbors': 9, 'weights': 'distance', 'metric': 'minkowski', 'p': 3}
+[2025-04-27 21:59:08] Accuracy: 0.4465
+
+[2025-04-27 21:59:08] Trial 90:
+[2025-04-27 21:59:08] Params: {'n_neighbors': 16, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:08] Accuracy: 0.4850
+
+[2025-04-27 21:59:08] Trial 91:
+[2025-04-27 21:59:08] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:08] Accuracy: 0.4863
+
+[2025-04-27 21:59:08] Trial 92:
+[2025-04-27 21:59:08] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:08] Accuracy: 0.4863
+
+[2025-04-27 21:59:08] Trial 93:
+[2025-04-27 21:59:08] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:08] Accuracy: 0.4863
+
+[2025-04-27 21:59:08] Trial 94:
+[2025-04-27 21:59:08] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:08] Accuracy: 0.4863
+
+[2025-04-27 21:59:08] Trial 95:
+[2025-04-27 21:59:08] Params: {'n_neighbors': 14, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:08] Accuracy: 0.4810
+
+[2025-04-27 21:59:09] Trial 96:
+[2025-04-27 21:59:09] Params: {'n_neighbors': 13, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:09] Accuracy: 0.4756
+
+[2025-04-27 21:59:09] Trial 97:
+[2025-04-27 21:59:09] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:09] Accuracy: 0.4863
+
+[2025-04-27 21:59:09] Trial 98:
+[2025-04-27 21:59:09] Params: {'n_neighbors': 17, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:09] Accuracy: 0.4820
+
+[2025-04-27 21:59:09] Trial 99:
+[2025-04-27 21:59:09] Params: {'n_neighbors': 2, 'weights': 'distance', 'metric': 'manhattan', 'p': 2}
+[2025-04-27 21:59:09] Accuracy: 0.3691
+
+[2025-04-27 21:59:09] 
+Best trial:
+[2025-04-27 21:59:09] Value: 0.4863
+[2025-04-27 21:59:09] Params: {'n_neighbors': 15, 'weights': 'distance', 'metric': 'manhattan'}

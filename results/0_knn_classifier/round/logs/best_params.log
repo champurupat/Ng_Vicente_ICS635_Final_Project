@@ -1,0 +1,4 @@
+Best Parameters:
+n_neighbors: 20
+weights: distance
+metric: euclidean

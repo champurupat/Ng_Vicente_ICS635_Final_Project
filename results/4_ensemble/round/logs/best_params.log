@@ -1,0 +1,5 @@
+Best Parameters:
+knn_weight: 0.7255808848609904
+rf_weight: 0.3615619921839509
+nn_weight: 0.5858395549422208
+tabnet_weight: 0.4465657706497579
