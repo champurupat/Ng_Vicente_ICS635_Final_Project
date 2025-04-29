@@ -13,70 +13,66 @@ def ensure_dir(directory):
         os.makedirs(directory)
 
 
+def plot_single_image(ax, img_path, ylabel=None):
+    """Helper function to plot a single image onto an axis with optional ylabel."""
+    if os.path.exists(img_path):
+        img = mpimg.imread(img_path)
+        ax.imshow(img)
+    if ylabel:
+        ax.set_ylabel(ylabel, fontsize=14, fontweight="bold", rotation=90, labelpad=10)
+    ax.set_xticks([])
+    ax.set_yticks([])
+
+
 def collate_feature_importance_plots():
-    """Create a 2x2 grid of feature importance plots."""
-    # Set up the figure
-    fig, axes = plt.subplots(
-        2, 2, figsize=(20, 12)
-    )  # Similar width to optimization plots
-
-    axes[0, 0].set_title("Round Prediction", pad=15, fontsize=22, fontweight="bold")
-    axes[0, 1].set_title("Position Prediction", pad=15, fontsize=22, fontweight="bold")
-
-    # Add space between columns and adjust margins
-    plt.subplots_adjust(wspace=0.05, hspace=0.03)
-
-    # Get relevant model directories
+    """Create two separate 2x1 figures for feature importance (RF above TabNet)."""
     figures_dir = "results/figures"
-    model_dirs = ["1_random_forest", "3_tabnet"]  # Only RF and TabNet
+    output_dir = os.path.join(figures_dir, "collated")
+    ensure_dir(output_dir)
+
+    # Models to compare
+    model_dirs = ["1_random_forest", "3_tabnet"]
+
+    # --- Figure 1: Round Prediction Feature Importance (2x1) ---
+    fig1, axes1 = plt.subplots(2, 1, figsize=(8, 10))  # Adjusted for 2x1 layout
+    plt.subplots_adjust(hspace=0.1)
 
     for i, model_dir in enumerate(model_dirs):
         model_name = MODEL_NAMES.get(model_dir, model_dir)
-
-        # Load and plot round prediction feature importance
         round_path = os.path.join(
             figures_dir, model_dir, "round", "feature_importance.png"
         )
-        if os.path.exists(round_path):
-            img = mpimg.imread(round_path)
-            axes[i, 0].imshow(img)
-            # Larger row labels with background for better visibility
-            axes[i, 0].set_ylabel(
-                model_name,
-                fontsize=18,  # Increased font size
-                fontweight="bold",
-                rotation=90,
-                labelpad=15,  # Increased padding
-            )
+        plot_single_image(axes1[i], round_path, ylabel=model_name)
 
-        # Load and plot position prediction feature importance
+    output_path1 = os.path.join(
+        output_dir, "feature_importances_round_stacked.png"
+    )  # New name
+    plt.savefig(output_path1, dpi=250, bbox_inches="tight")
+    plt.close(fig1)
+    print(f"Saved Round Feature Importance (Stacked) to {output_path1}")
+
+    # --- Figure 2: Position Prediction Feature Importance (2x1) ---
+    fig2, axes2 = plt.subplots(2, 1, figsize=(8, 10))
+    plt.subplots_adjust(hspace=0.1)
+
+    for i, model_dir in enumerate(model_dirs):
+        model_name = MODEL_NAMES.get(model_dir, model_dir)
         pos_path = os.path.join(
             figures_dir, model_dir, "position", "feature_importance.png"
         )
-        if os.path.exists(pos_path):
-            img = mpimg.imread(pos_path)
-            axes[i, 1].imshow(img)
+        plot_single_image(axes2[i], pos_path, ylabel=model_name)
 
-        # Remove ticks for both plots
-        axes[i, 0].set_xticks([])
-        axes[i, 0].set_yticks([])
-        axes[i, 1].set_xticks([])
-        axes[i, 1].set_yticks([])
-
-    # Save the collated figure
-    output_dir = os.path.join(figures_dir, "collated")
-    ensure_dir(output_dir)
-    output_path = os.path.join(output_dir, "feature_importances.png")
-    plt.savefig(output_path, dpi=250, bbox_inches="tight")
-    plt.close()
-
-    print(f"Collated feature importance plots saved to {output_path}")
-    return output_path
+    output_path2 = os.path.join(
+        output_dir, "feature_importances_position_stacked.png"
+    )  # New name
+    plt.savefig(output_path2, dpi=250, bbox_inches="tight")
+    plt.close(fig2)
+    print(f"Saved Position Feature Importance (Stacked) to {output_path2}")
 
 
 def main():
     """Main function to run the collation script."""
-    print("\nCollating feature importance plots...")
+    print("\nCollating feature importance plots into stacked figures...")
     collate_feature_importance_plots()
 
 

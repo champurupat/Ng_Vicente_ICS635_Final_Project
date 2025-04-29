@@ -16,7 +16,7 @@ def ensure_dir(directory):
 def collate_training_plots(model_dir, model_name):
     """Create a 2x1 grid of training history plots for a model."""
     # Set up the figure
-    fig, axes = plt.subplots(2, 1, figsize=(15, 10))
+    fig, axes = plt.subplots(2, 1, figsize=(10, 10))
     # fig.suptitle(
     #     f"{model_name} Training History", fontsize=22, fontweight="bold", y=0.95
     # )
