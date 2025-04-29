@@ -62,7 +62,7 @@ for feature in features_to_fill:
         filtered_df.loc[missing, input_features]
     ).round(2)
 
-# Step 5: Remove rows where Pos is LS, G, SAF, P
+# Step 5: Remove rows where Pos is LS, G, SAF, P because of low number of samples
 filtered_df = filtered_df[~filtered_df["Pos"].isin(["LS", "G", "SAF", "P"])]
 print(f"Final shape after position filtering: {filtered_df.shape}")
 
