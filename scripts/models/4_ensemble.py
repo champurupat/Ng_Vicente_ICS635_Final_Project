@@ -144,9 +144,12 @@ for p_set, c_name in zip(path_sets, col_name):
     study.optimize(objective, n_trials=optuna_num_trials)
 
     # Log best results
+    # normalize weights for logging
+    total_weight = sum(study.best_trial.params.values())
+    best_weights = {k: v / total_weight for k, v in study.best_trial.params.items()}
     log_progress("\nBest trial:")
     log_progress(f"Value: {study.best_trial.value:.4f}")
-    log_progress(f"Params: {study.best_trial.params}")
+    log_progress(f"Params: {best_weights}")
 
     # Get best weights and normalize them
     best_weights = {

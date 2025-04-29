@@ -139,7 +139,7 @@ def plot_optimization_history(model_dir, output_dir):
     )
 
     ax1.legend(loc="lower right")
-    ax1.set_title("Optimization History Plot")
+    # ax1.set_title("Optimization History Plot")
     ax1.set_xlabel("Trial")
     ax1.set_ylabel("Objective Value")
     ax1.grid(True)
@@ -165,12 +165,16 @@ def plot_confusion_matrix(model_dir, output_dir, labels_, model_type):
     # Read predictions
     predictions = pd.read_csv(confusion_path)
 
-    # Create confusion matrix
-    cm = confusion_matrix(predictions[actual_col], predictions[pred_col])
+    # Create confusion matrix, explicitly using labels_ for order
+    cm = confusion_matrix(
+        predictions[actual_col],
+        predictions[pred_col],
+        labels=labels_,  # Ensure calculation uses the provided label order
+    )
 
-    # Create heatmap with improved visualization
-    cm = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labels_)
-    cm.plot()
+    # Create heatmap with improved visualization, using the same labels_
+    cm_display = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labels_)
+    cm_display.plot()
 
     model_name = MODEL_NAMES.get(Path(model_dir).name, Path(model_dir).name)
     plt.ylabel(f"True {col_name}")

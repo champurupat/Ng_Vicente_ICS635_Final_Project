@@ -1,20 +1,20 @@
 Starting hyperparameter optimization...
 
 Best Model Weights:
-KNN   : 0.342
-RF    : 0.171
-NN    : 0.276
-TABNET: 0.211
+KNN   : 0.197
+RF    : 0.306
+NN    : 0.179
+TABNET: 0.318
 
 Ensemble Model Performance:
-Overall Accuracy: 37.52%
+Overall Accuracy: 37.61%
 
 Per-Round Accuracy:
-   1 - Accuracy: 26.80% (Test samples: 97)
+   1 - Accuracy: 29.90% (Test samples: 97)
    2 - Accuracy: 2.78% (Test samples: 108)
-   3 - Accuracy: 0.84% (Test samples: 119)
+   3 - Accuracy: 0.00% (Test samples: 119)
    4 - Accuracy: 3.36% (Test samples: 119)
-   5 - Accuracy: 0.88% (Test samples: 113)
+   5 - Accuracy: 0.00% (Test samples: 113)
    6 - Accuracy: 0.00% (Test samples: 97)
    7 - Accuracy: 0.00% (Test samples: 92)
    8 - Accuracy: 96.16% (Test samples: 417)
@@ -22,18 +22,18 @@ Per-Round Accuracy:
 Detailed Classification Report:
               precision    recall  f1-score   support
 
-           1       0.24      0.27      0.25        97
-           2       0.12      0.03      0.05       108
-           3       0.17      0.01      0.02       119
-           4       0.29      0.03      0.06       119
-           5       0.50      0.01      0.02       113
+           1       0.24      0.30      0.27        97
+           2       0.15      0.03      0.05       108
+           3       0.00      0.00      0.00       119
+           4       0.31      0.03      0.06       119
+           5       0.00      0.00      0.00       113
            6       0.00      0.00      0.00        97
            7       0.00      0.00      0.00        92
            8       0.40      0.96      0.56       417
 
     accuracy                           0.38      1162
-   macro avg       0.21      0.16      0.12      1162
-weighted avg       0.27      0.38      0.24      1162
+   macro avg       0.14      0.17      0.12      1162
+weighted avg       0.21      0.38      0.23      1162
 
 
 Model Accuracy Comparison:
@@ -41,4 +41,4 @@ KNN            : 35.54%
 Random Forest  : 36.66%
 Neural Network : 37.35%
 TabNet         : 37.01%
-Ensemble       : 37.52%
+Ensemble       : 37.61%
